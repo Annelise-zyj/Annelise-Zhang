@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#17151c">
+  <meta name="description" content="Annelise Zhang 的影像与摄影作品集">
+  <title>Annelise Zhang’s Portfolio</title>
+  <link rel="preload" as="image" href="/above-beneath/above.jpg">
+  <link rel="preload" as="image" href="/above-beneath/beneath.jpg">
+  <link rel="stylesheet" href="./src/styles/integrated.css">
+</head>
+<body>
+  <main id="portfolio" class="portfolio" aria-label="Annelise Zhang 的作品集">
+    <div id="chapter-track" class="chapter-track">
+      <section class="chapter" data-chapter="0" aria-label="封面"><iframe title="封面" data-src="./cover.html"></iframe></section>
+      <section class="chapter" data-chapter="1" aria-label="目录"><iframe title="目录" data-src="./page2.html"></iframe></section>
+      <section class="chapter" data-chapter="2" aria-label="个人简介"><iframe title="个人简介" data-src="./page3.html"></iframe></section>
+      <section class="chapter" data-chapter="3" aria-label="影像档案"><iframe title="影像档案" data-src="./page4.html"></iframe></section>
+      <section class="chapter" data-chapter="4" aria-label="摄影档案"><iframe title="摄影档案" data-src="./page5.html"></iframe></section>
+      <section class="chapter" data-chapter="5" aria-label="保持联系"><iframe title="保持联系" data-src="./page6.html"></iframe></section>
+    </div>
+    <div class="directory-modal-overlay" id="directory-modal-overlay" aria-label="目录内容窗口">
+      <iframe id="directory-modal-frame" title="目录内容"></iframe>
+    </div>
+    <div class="intern-work-overlay" id="intern-work-overlay" aria-label="实习作品播放窗口">
+      <iframe id="intern-work-frame" title="实习作品播放"></iframe>
+      <span class="intern-work-overlay__loading">正在打开影片…</span>
+    </div>
+    <div class="scene-transition" id="scene-transition" aria-hidden="true">
+      <div class="scene-transition__track">
+        <div class="scene-transition__panel scene-transition__panel--above"></div>
+        <div class="scene-transition__panel scene-transition__panel--beneath"></div>
+      </div>
+    </div>
+    <canvas class="pointer-bubbles" id="pointer-bubbles" aria-hidden="true"></canvas>
+    <button class="sound-toggle" id="sound-toggle" type="button" aria-label="开启环境声音" aria-pressed="false"><span class="sound-toggle__icon" aria-hidden="true">◖</span><span class="sound-toggle__text">SOUND OFF</span></button>
+    <span class="chapter-status" id="chapter-status" aria-live="polite">01 / 06</span>
+  </main>
+  <audio id="sound-lake" src="/above-beneath/lake.mp3" loop preload="auto"></audio>
+  <audio id="sound-underwater" src="/above-beneath/underwater.mp3" loop preload="auto"></audio>
+  <audio id="sound-splash" src="/above-beneath/splash.mp3" preload="auto"></audio>
+  <script type="module" src="./src/scripts/integrated.ts"></script>
+</body>
+</html>

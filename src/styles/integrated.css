@@ -1,0 +1,36 @@
+*{box-sizing:border-box}
+html,body{width:100%;height:100%;margin:0;overflow:hidden;background:#17151c;color:#f5f0f7}
+button{font:inherit}
+.portfolio{position:fixed;inset:0;overflow:hidden;isolation:isolate;background:linear-gradient(145deg,#211e29,#121219 54%,#292231)}
+.chapter-track{position:absolute;inset:0 auto auto 0;width:100%;height:600svh;will-change:transform;transition:transform 1.6s cubic-bezier(1,.005,.33,1)}
+.chapter{position:relative;width:100%;height:100svh;overflow:hidden;background:#17151c}
+.chapter iframe{display:block;width:100%;height:100%;border:0;background:#17151c}
+.directory-modal-overlay{position:fixed;z-index:50;inset:0;background:rgba(3,10,24,.54);backdrop-filter:blur(12px);visibility:hidden;opacity:0;pointer-events:none;transition:opacity .25s ease,visibility .25s ease}
+.directory-modal-overlay.is-open{visibility:visible;opacity:1;pointer-events:auto}
+.directory-modal-overlay iframe{display:block;width:100%;height:100%;border:0;background:transparent}
+.intern-work-overlay{position:fixed;z-index:55;inset:0;background:#07172a;visibility:hidden;opacity:0;pointer-events:none;transition:opacity .25s ease,visibility .25s ease}
+.intern-work-overlay.is-loading,.intern-work-overlay.is-open{visibility:visible;opacity:1;pointer-events:auto}
+.intern-work-overlay iframe{display:block;width:100%;height:100%;border:0;opacity:0;transition:opacity .25s ease}
+.intern-work-overlay.is-open iframe{opacity:1}
+.intern-work-overlay__loading{position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);color:#eee8f2;font:500 12px/1.4 'Microsoft YaHei',sans-serif;letter-spacing:.15em}
+.intern-work-overlay.is-open .intern-work-overlay__loading{display:none}
+.portfolio:has(.intern-work-overlay.is-loading) .pointer-bubbles,.portfolio:has(.intern-work-overlay.is-open) .pointer-bubbles{display:none}
+.portfolio:has(.intern-work-overlay.is-loading) .sound-toggle,.portfolio:has(.intern-work-overlay.is-open) .sound-toggle{visibility:hidden}
+.scene-transition{position:fixed;z-index:40;inset:0;overflow:hidden;pointer-events:none;visibility:hidden;opacity:0;transition:opacity .22s ease}
+.scene-transition.is-visible{visibility:visible;opacity:1}
+.scene-transition.is-revealing{opacity:0}
+.scene-transition__track{height:200svh;transform:translate3d(0,0,0);transition:transform 1.6s cubic-bezier(1,.005,.33,1)}
+.scene-transition.is-moving .scene-transition__track{transform:translate3d(0,-100svh,0)}
+.scene-transition__panel{position:relative;width:100%;height:100svh;background-repeat:no-repeat;background-position:center;background-size:cover;overflow:hidden}
+.scene-transition__panel::after{content:"";position:absolute;inset:0;background:linear-gradient(135deg,rgba(20,19,28,.52),rgba(33,28,39,.32) 45%,rgba(17,17,25,.58))}
+.scene-transition__panel--above{background-image:url('/above-beneath/above.jpg');transform-origin:50% 100%;transition:transform 1.6s cubic-bezier(1,.005,.33,1),opacity 1.6s cubic-bezier(1,.005,.33,1)}
+.scene-transition.is-moving .scene-transition__panel--above{transform:scale3d(1.2,1.2,1);opacity:0}
+.scene-transition__panel--beneath{background-image:url('/above-beneath/beneath.jpg')}
+.pointer-bubbles{position:fixed;z-index:61;inset:0;width:100%;height:100%;pointer-events:none;display:none}
+.portfolio[data-chapter="2"] .pointer-bubbles,.portfolio[data-chapter="3"] .pointer-bubbles,.portfolio[data-chapter="4"] .pointer-bubbles,.portfolio[data-chapter="5"] .pointer-bubbles{display:block}
+.sound-toggle{position:fixed;z-index:62;left:20px;bottom:60px;display:flex;align-items:center;gap:8px;padding:8px 10px;border:1px solid rgba(240,230,248,.27);border-radius:999px;background:rgba(20,18,27,.5);backdrop-filter:blur(8px);color:#e4d9eb;cursor:pointer;font:600 9px/1 Arial,sans-serif;letter-spacing:.13em;transition:background .2s,border-color .2s}
+.sound-toggle:hover{background:rgba(56,43,67,.7);border-color:rgba(240,230,248,.55)}
+.sound-toggle__icon{font-size:16px;line-height:10px}.chapter-status{display:none}
+.sound-toggle:focus-visible{outline:2px solid #e2c1f2;outline-offset:3px}
+@media(max-width:600px){.sound-toggle{left:12px;bottom:48px;padding:7px}.chapter-status{left:14px;bottom:17px}}
+

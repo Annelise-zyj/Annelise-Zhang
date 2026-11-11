@@ -1,0 +1,1685 @@
+[
+  {
+    "title": "龙润三日",
+    "displayTitle": "龙润三日",
+    "english": "Dragon’s Grace for Three Days",
+    "category": "AI 辅助影像",
+    "project": "",
+    "thumbnail": "/images/moving/ai-dragon.jpg",
+    "video": "https://1527480450.vod-qcloud.com/69d83c06vodcq1527480450/a385418a5001834827336910979/nZorpIkgNpEA.mp4",
+    "duration": 1802,
+    "date": "2026年3月—2026年9月",
+    "location": "云南省弥勒市",
+    "description": "影片以云南弥勒陶瓦村彝族阿哲人的正月祭龙大典为切入点，通过对村民日常生活与三天祭祀活动的持续观察，呈现传统仪式与乡土生活之间的联系。影片并未局限于对仪式流程的完整记录，而是将镜头延伸至做饭、洗碗、劳作、交谈等日常场景，以及仪式结束后村庄重归平静的生活状态，试图从细微的生活片段中探寻仪式背后的信仰根源与文化意义。在影像表达上，影片运用 AI 动画技术，对当地流传的古老传说进行视觉化创作与再现，连接现实生活与文化记忆。同时，影片关注这项省级非物质文化遗产在当代社会中的传承与变迁。通过仪式与日常、传统与当下的交织呈现，记录一个村落真实而持续的生活状态，以及其背后的文化情感。",
+    "honors": [
+      "横店影视节第二届大学生原创短片奖入围",
+      "中国国家图书馆永久收藏",
+      "第十二届民族影视与非遗影像研讨会入围"
+    ],
+    "models": [
+      "Seedance-2.0",
+      "ChatGPT（GPT-5.3）"
+    ],
+    "subtitle": "阿哲人正月祭龙仪式与乡土生活",
+    "meta": {
+      "date": "2026.3—2026.9",
+      "type": "纪录+Ai辅助影像短片",
+      "locationLabel": "拍摄地点",
+      "location": "云南省弥勒市",
+      "director": "张仪佳",
+      "team": "张仪佳 孔一安 梁苏英杰 杨婉灵 魏来",
+      "advisor": "王跃 宋杰 马丽颖 周卫平",
+      "models": [
+        "Seedance-2.0",
+        "ChatGPT（GPT-5.3）"
+      ]
+    },
+    "descriptionEn": "The film explores the New Year Dragon Sacrifice Ceremony of the A Zhe people in Taowa Village, Mile, Yunnan, through both ritual and everyday life. Rather than simply documenting the ceremony, it captures ordinary moments of village life, revealing the beliefs and cultural meanings behind the tradition. Using AI-generated animation to recreate local legends, the film connects cultural memory with contemporary life while examining the preservation and transformation of this intangible cultural heritage.",
+    "type": "纪录+Ai辅助影像短片",
+    "locationLabel": "拍摄地点",
+    "director": "张仪佳",
+    "team": "张仪佳 孔一安 梁苏英杰 杨婉灵 魏来",
+    "advisor": "王跃 宋杰 马丽颖 周卫平",
+    "materials": [
+      {
+        "title": "海报 01",
+        "category": "海报",
+        "src": "/images/materials/dragon-海报-01.jpg"
+      },
+      {
+        "title": "海报 02",
+        "category": "海报",
+        "src": "/images/materials/dragon-海报-02.jpg"
+      },
+      {
+        "title": "获得荣誉 01",
+        "category": "获得荣誉",
+        "src": "/images/materials/dragon-获得荣誉-01.jpg"
+      },
+      {
+        "title": "获得荣誉 02",
+        "category": "获得荣誉",
+        "src": "/images/materials/dragon-获得荣誉-02.jpg"
+      },
+      {
+        "title": "获得荣誉 03",
+        "category": "获得荣誉",
+        "src": "/images/materials/dragon-获得荣誉-03.jpg"
+      },
+      {
+        "title": "获得荣誉 04",
+        "category": "获得荣誉",
+        "src": "/images/materials/dragon-获得荣誉-04.jpg"
+      },
+      {
+        "title": "剧照 01",
+        "category": "剧照",
+        "src": "/images/materials/dragon-剧照-01.jpg"
+      },
+      {
+        "title": "剧照 02",
+        "category": "剧照",
+        "src": "/images/materials/dragon-剧照-02.jpg"
+      },
+      {
+        "title": "剧照 03",
+        "category": "剧照",
+        "src": "/images/materials/dragon-剧照-03.jpg"
+      },
+      {
+        "title": "AI工作流 01",
+        "category": "AI工作流",
+        "src": "/images/materials/dragon-AI工作流-01.jpg"
+      },
+      {
+        "title": "AI工作流 02",
+        "category": "AI工作流",
+        "src": "/images/materials/dragon-AI工作流-02.jpg"
+      },
+      {
+        "title": "AI工作流 03",
+        "category": "AI工作流",
+        "src": "/images/materials/dragon-AI工作流-03.jpg"
+      },
+      {
+        "title": "AI工作流 04",
+        "category": "AI工作流",
+        "src": "/images/materials/dragon-AI工作流-04.jpg"
+      },
+      {
+        "title": "AI工作流 05",
+        "category": "AI工作流",
+        "src": "/images/materials/dragon-AI工作流-05.jpg"
+      },
+      {
+        "title": "花絮工作照 01",
+        "category": "花絮工作照",
+        "src": "/images/materials/dragon-花絮工作照-01.jpg"
+      },
+      {
+        "title": "花絮工作照 02",
+        "category": "花絮工作照",
+        "src": "/images/materials/dragon-花絮工作照-02.jpg"
+      },
+      {
+        "title": "花絮工作照 03",
+        "category": "花絮工作照",
+        "src": "/images/materials/dragon-花絮工作照-03.jpg"
+      },
+      {
+        "title": "花絮工作照 04",
+        "category": "花絮工作照",
+        "src": "/images/materials/dragon-花絮工作照-04.jpg"
+      }
+    ]
+  },
+  {
+    "title": "这里是我家的唯一原因",
+    "displayTitle": "这里是我家的唯一原因",
+    "english": "Why This Is Home",
+    "category": "AI 辅助影像",
+    "project": "",
+    "thumbnail": "/images/moving/ai-home.jpg",
+    "video": "https://1527480450.vod-qcloud.com/69d83c06vodcq1527480450/9df2e8ce5001834827384572589/ASG1dOOQmRgA.mp4",
+    "duration": 131,
+    "date": "2026年8月",
+    "location": "上海市",
+    "description": "作品运用 AI 技术生成影像，融入东方明珠、白兰花、上海话儿歌等具有地域辨识度的城市元素，唤起关于上海的集体记忆与情感共鸣。影片结合创作者自身的成长经历，围绕个体与城市的关系展开，呈现成长过程中身份认同与情感归属的矛盾与迷茫。在城市新旧更迭、记忆与现实的交织之中，探寻个人精神归属，以及个体与故乡之间复杂而深刻的情感联系。",
+    "honors": [],
+    "models": [
+      "Image-2",
+      "Seedance-2.0",
+      "ChatGPT（GPT-5.5）"
+    ],
+    "subtitle": "上海记忆与成长中的身份迷茫",
+    "meta": {
+      "date": "2026.8",
+      "type": "AI 生成影像",
+      "locationLabel": "制作地点",
+      "location": "上海市",
+      "director": "张仪佳",
+      "writer": "张仪佳",
+      "models": [
+        "Image-2",
+        "Seedance-2.0",
+        "ChatGPT（GPT-5.5）"
+      ]
+    },
+    "descriptionEn": "Created using AI-generated imagery, the film incorporates iconic Shanghai elements such as the Oriental Pearl Tower, white magnolia flowers, and Shanghai dialect nursery rhymes, evoking collective memories and emotional connections to the city. Drawing on the filmmaker’s personal experience of growing up, it explores the relationship between individuals and the city, reflecting the uncertainty of identity and belonging. Amid urban transformation and the tension between memory and reality, the film seeks to explore personal identity and the complex emotional ties between individuals and their hometown.",
+    "type": "AI 生成影像",
+    "locationLabel": "制作地点",
+    "director": "张仪佳",
+    "writer": "张仪佳",
+    "materials": [
+      {
+        "title": "剧照 01",
+        "category": "剧照",
+        "src": "/images/materials/home-剧照-01.jpg"
+      },
+      {
+        "title": "剧照 02",
+        "category": "剧照",
+        "src": "/images/materials/home-剧照-02.jpg"
+      },
+      {
+        "title": "剧照 03",
+        "category": "剧照",
+        "src": "/images/materials/home-剧照-03.jpg"
+      },
+      {
+        "title": "剧照 04",
+        "category": "剧照",
+        "src": "/images/materials/home-剧照-04.jpg"
+      },
+      {
+        "title": "剧照 05",
+        "category": "剧照",
+        "src": "/images/materials/home-剧照-05.jpg"
+      },
+      {
+        "title": "剧照 06",
+        "category": "剧照",
+        "src": "/images/materials/home-剧照-06.jpg"
+      },
+      {
+        "title": "AI数字资产 01",
+        "category": "AI数字资产",
+        "src": "/images/materials/home-AI数字资产-01.jpg"
+      },
+      {
+        "title": "AI数字资产 02",
+        "category": "AI数字资产",
+        "src": "/images/materials/home-AI数字资产-02.jpg"
+      },
+      {
+        "title": "AI工作流 01",
+        "category": "AI工作流",
+        "src": "/images/materials/home-AI工作流-01.jpg"
+      },
+      {
+        "title": "AI工作流 02",
+        "category": "AI工作流",
+        "src": "/images/materials/home-AI工作流-02.jpg"
+      },
+      {
+        "title": "AI工作流 03",
+        "category": "AI工作流",
+        "src": "/images/materials/home-AI工作流-03.jpg"
+      },
+      {
+        "title": "AI工作流 04",
+        "category": "AI工作流",
+        "src": "/images/materials/home-AI工作流-04.jpg"
+      }
+    ]
+  },
+  {
+    "title": "苗溪百花",
+    "displayTitle": "苗溪百花",
+    "english": "Miao Blossoms: Threads of Women",
+    "category": "纪录短片",
+    "project": "",
+    "thumbnail": "/images/moving/doc-miao.jpg",
+    "video": "https://1527480450.vod-qcloud.com/69d83c06vodcq1527480450/f4b9c4405001834827334036549/2QD4SkYvBfcA.mp4",
+    "duration": 1410,
+    "date": "2025年1月—2025年6月",
+    "location": "贵州省都匀市及周边地区",
+    "description": "一位贵州都匀苗族服饰传承人，用双手绣出苗族文化的瑰丽画卷，也用坚韧与独立书写了自己的人生。她走遍苗寨，潜心研究各支系服饰技艺，将传统与现代融合，赋予苗族服饰新的生命力。婚姻的挫折并未让她停下脚步，她以独立女性的姿态，独自抚养女儿，并将对文化的热爱传递给下一代，女儿也成为传承人。她创立“苗花溪庄园”，打造苗族文化展示与体验平台，积极推广苗族文化，让古老技艺走出大山，走向世界。陈青用一针一线，编织出对文化的坚守与热爱，也用行动诠释了女性的独立与力量，让苗岭之花在新时代绚丽绽放。",
+    "honors": [],
+    "models": [],
+    "subtitle": "一篇传承苗族文化的女性故事",
+    "meta": {
+      "date": "2025.1—2025.6",
+      "type": "纪录短片",
+      "locationLabel": "拍摄地点",
+      "location": "贵州省都匀市及周边地区",
+      "director": "张仪佳",
+      "team": "张仪佳 袁慧熙 罗友晟 赵子炎",
+      "advisor": "李文哲 高江龙 高珊"
+    },
+    "descriptionEn": "A Miao clothing inheritor in Duyun, Guizhou, uses her hands to embroider the vibrant tapestry of Miao culture while crafting her own story of resilience and independence. She explored Miao villages, studied diverse clothing techniques, and blended tradition with modernity to revitalize Miao attire. Despite marital setbacks, she raised her daughter alone, passing on her cultural passion, with her daughter also becoming an inheritor. She established \"Miaohuaxi Manor,\" a platform to showcase Miao culture, promoting ancient craftsmanship globally. With every stitch, Chen Qing weaves her dedication and love for culture, embodying the strength of women and ensuring Miao culture flourishes in the new era.",
+    "type": "纪录短片",
+    "locationLabel": "拍摄地点",
+    "director": "张仪佳",
+    "team": "张仪佳 袁慧熙 罗友晟 赵子炎",
+    "advisor": "李文哲 高江龙 高珊",
+    "materials": [
+      {
+        "title": "海报 01",
+        "category": "海报",
+        "src": "/images/materials/miao-海报-01.jpg"
+      },
+      {
+        "title": "海报 02",
+        "category": "海报",
+        "src": "/images/materials/miao-海报-02.jpg"
+      },
+      {
+        "title": "剧照 01",
+        "category": "剧照",
+        "src": "/images/materials/miao-剧照-01.jpg"
+      },
+      {
+        "title": "剧照 02",
+        "category": "剧照",
+        "src": "/images/materials/miao-剧照-02.jpg"
+      },
+      {
+        "title": "剧照 03",
+        "category": "剧照",
+        "src": "/images/materials/miao-剧照-03.jpg"
+      },
+      {
+        "title": "剧照 04",
+        "category": "剧照",
+        "src": "/images/materials/miao-剧照-04.jpg"
+      },
+      {
+        "title": "剧照 05",
+        "category": "剧照",
+        "src": "/images/materials/miao-剧照-05.jpg"
+      },
+      {
+        "title": "剧照 06",
+        "category": "剧照",
+        "src": "/images/materials/miao-剧照-06.jpg"
+      },
+      {
+        "title": "花絮工作照 01",
+        "category": "花絮工作照",
+        "src": "/images/materials/miao-花絮工作照-01.jpg"
+      },
+      {
+        "title": "花絮工作照 02",
+        "category": "花絮工作照",
+        "src": "/images/materials/miao-花絮工作照-02.jpg"
+      },
+      {
+        "title": "花絮工作照 03",
+        "category": "花絮工作照",
+        "src": "/images/materials/miao-花絮工作照-03.jpg"
+      },
+      {
+        "title": "花絮工作照 04",
+        "category": "花絮工作照",
+        "src": "/images/materials/miao-花絮工作照-04.jpg"
+      }
+    ]
+  },
+  {
+    "title": "介入医生",
+    "displayTitle": "介入医生",
+    "english": "The Interventional Doctor",
+    "category": "纪录短片",
+    "project": "",
+    "thumbnail": "/images/moving/doc-doctor.jpg",
+    "video": "https://1527480450.vod-qcloud.com/69d83c06vodcq1527480450/fec68e555001834827341241515/YE5q1JOslp4A.mp4",
+    "duration": 1469,
+    "date": "2024年12月-2025年6月",
+    "location": "贵州省都匀市及周边地区",
+    "description": "在黔南州人民医院神经内科，时间就是生命。这部纪录片真实记录了医护人员与死神赛跑的日常，展现他们在急救室争分夺秒的瞬间。从深夜紧急出诊到春节坚守岗位，从成功抢救的喜悦到面对死亡的无奈，医护人员用专业与坚守守护着每一个生命。他们与时间赛跑，在八小时的黄金抢救时间内拼尽全力，为患者争取生的希望。这里既有重获新生的奇迹，也有无法挽回的遗憾，而大部分患者都是年迈的老人。医护人员不仅是白衣天使，也是父母、子女。他们缺席了孩子的成长，错过了家人的团聚，却用坚实的背影为病人们筑起生命的防线。家人的理解与支持成为他们最坚强的后盾，但这份职业也让他们背负着对家庭的愧疚。本片以细腻的镜头语言，捕捉医者仁心的动人瞬间，呈现出一幅当代医者群像的感人画卷，展现生命的意义与医者的伟大。",
+    "honors": [],
+    "models": [],
+    "subtitle": "医者夜奔 生死竞速 仁心守岁 生命之光",
+    "meta": {
+      "date": "2024年12月-2025年6月",
+      "type": "纪录短片",
+      "locationLabel": "拍摄地点",
+      "location": "贵州省都匀市及周边地区",
+      "director": "罗友晟 张仪佳",
+      "team": "罗友晟 赵子炎 张仪佳 袁慧熙",
+      "advisor": "李文哲 高江龙 高珊"
+    },
+    "descriptionEn": "In the neurology department of Qiannan People's Hospital, time is life. This documentary captures the relentless race against death by medical staff, from late-night emergencies to Spring Festival duties. Balancing the joy of saving lives with the pain of loss, they dedicate themselves to protecting patients, often elderly, within the critical eight-hour rescue window. While their families offer unwavering support, their commitment often means missing milestones and reunions. Through intimate storytelling, the film highlights their sacrifices, compassion, and the profound meaning of their work, painting a poignant portrait of modern-day heroes in white coats.",
+    "type": "纪录短片",
+    "locationLabel": "拍摄地点",
+    "director": "罗友晟 张仪佳",
+    "team": "罗友晟 赵子炎 张仪佳 袁慧熙",
+    "advisor": "李文哲 高江龙 高珊",
+    "materials": [
+      {
+        "title": "海报 01",
+        "category": "海报",
+        "src": "/images/materials/doctor-poster-2026.jpg"
+      },
+      {
+        "title": "剧照 01",
+        "category": "剧照",
+        "src": "/images/materials/doctor-剧照-01.jpg"
+      },
+      {
+        "title": "剧照 02",
+        "category": "剧照",
+        "src": "/images/materials/doctor-剧照-02.jpg"
+      },
+      {
+        "title": "剧照 03",
+        "category": "剧照",
+        "src": "/images/materials/doctor-剧照-03.jpg"
+      },
+      {
+        "title": "剧照 04",
+        "category": "剧照",
+        "src": "/images/materials/doctor-剧照-04.jpg"
+      },
+      {
+        "title": "剧照 05",
+        "category": "剧照",
+        "src": "/images/materials/doctor-剧照-05.jpg"
+      },
+      {
+        "title": "剧照 06",
+        "category": "剧照",
+        "src": "/images/materials/doctor-剧照-06.jpg"
+      },
+      {
+        "title": "剧照 07",
+        "category": "剧照",
+        "src": "/images/materials/doctor-剧照-07.jpg"
+      },
+      {
+        "title": "剧照 08",
+        "category": "剧照",
+        "src": "/images/materials/doctor-剧照-08.jpg"
+      },
+      {
+        "title": "花絮工作照 01",
+        "category": "花絮工作照",
+        "src": "/images/materials/doctor-花絮工作照-01.jpg"
+      },
+      {
+        "title": "花絮工作照 02",
+        "category": "花絮工作照",
+        "src": "/images/materials/doctor-花絮工作照-02.jpg"
+      },
+      {
+        "title": "花絮工作照 03",
+        "category": "花絮工作照",
+        "src": "/images/materials/doctor-花絮工作照-03.jpg"
+      },
+      {
+        "title": "花絮工作照 04",
+        "category": "花絮工作照",
+        "src": "/images/materials/doctor-花絮工作照-04.jpg"
+      }
+    ]
+  },
+  {
+    "title": "我们俩",
+    "displayTitle": "我们俩",
+    "english": "The Two",
+    "category": "纪录短片",
+    "project": "",
+    "thumbnail": "/images/moving/doc-us.jpg",
+    "video": "https://1527480450.vod-qcloud.com/69d83c06vodcq1527480450/2af74fc35001834827338135485/IfXHnouauF8A.mp4",
+    "duration": 1216,
+    "date": "2023年12月—2024年6月",
+    "location": "辽宁省大连市",
+    "description": "这是一部聚焦大龄孤独症患者及其家庭的纪录片。一位年迈母亲与孤独症儿子的生活故事，探讨了亲情、责任与生命的坚韧。父亲患病后，母亲独自承担起照顾儿子的重任，她担心自己离世后儿子的未来，便带他参加爱纳孤独症障碍者综合服务中心等机构，希望儿子能掌握一项技能。然而，儿子的未来依然充满不确定性。影片展现了母亲在照顾儿子的过程中所付出的巨大牺牲与无尽的爱，强调即使面对巨大的挑战，亲情的力量依然能够支撑人们前行，同时也揭示了孤独症患者家庭所面临的社会困境与对儿子生活的担忧，并引发观众对孤独症患者及其家庭生活的关注与思考。",
+    "honors": [
+      "志愿服务证明 Volunteer Certificate"
+    ],
+    "models": [],
+    "subtitle": "爱与责任超越一切",
+    "meta": {
+      "date": "2023.12—2024.6",
+      "type": "纪录短片",
+      "locationLabel": "拍摄地点",
+      "location": "辽宁省大连市",
+      "director": "喻阳",
+      "team": "喻阳 孔雅锌 董芷兰 张仪佳",
+      "advisor": "李文哲 高江龙 高珊"
+    },
+    "descriptionEn": "This documentary focuses on older individuals with autism and their families, telling the story of an elderly mother caring for her autistic son. It explores themes of family, responsibility, and resilience. After the father falls ill, the mother takes on the sole responsibility of caring for her son, worrying about his well-being after she passes. She enrolls him in institutions like the Aina Autism Support Center, hoping he can learn a skill. However, his future remains uncertain. The film highlights the immense sacrifices and boundless love of the mother, emphasizing that the power of family can sustain people through immense challenges. It also sheds light on the social struggles faced by families of individuals with autism and their concerns for their children's lives, prompting viewers to reflect on and pay attention to the lives of those affected by autism and their families.",
+    "type": "纪录短片",
+    "locationLabel": "拍摄地点",
+    "director": "喻阳",
+    "team": "喻阳 孔雅锌 董芷兰 张仪佳",
+    "advisor": "李文哲 高江龙 高珊",
+    "materials": [
+      {
+        "title": "海报 01",
+        "category": "海报",
+        "src": "/images/materials/us-海报-01.jpg"
+      },
+      {
+        "title": "海报 02",
+        "category": "海报",
+        "src": "/images/materials/us-海报-02.jpg"
+      },
+      {
+        "title": "剧照 01",
+        "category": "剧照",
+        "src": "/images/materials/us-剧照-01.jpg"
+      },
+      {
+        "title": "剧照 02",
+        "category": "剧照",
+        "src": "/images/materials/us-剧照-02.jpg"
+      },
+      {
+        "title": "剧照 03",
+        "category": "剧照",
+        "src": "/images/materials/us-剧照-03.jpg"
+      },
+      {
+        "title": "剧照 04",
+        "category": "剧照",
+        "src": "/images/materials/us-剧照-04.jpg"
+      },
+      {
+        "title": "剧照 05",
+        "category": "剧照",
+        "src": "/images/materials/us-剧照-05.jpg"
+      },
+      {
+        "title": "剧照 06",
+        "category": "剧照",
+        "src": "/images/materials/us-剧照-06.jpg"
+      },
+      {
+        "title": "花絮工作照 01",
+        "category": "花絮工作照",
+        "src": "/images/materials/us-花絮工作照-01.jpg"
+      },
+      {
+        "title": "花絮工作照 02",
+        "category": "花絮工作照",
+        "src": "/images/materials/us-花絮工作照-02.jpg"
+      },
+      {
+        "title": "花絮工作照 03",
+        "category": "花絮工作照",
+        "src": "/images/materials/us-花絮工作照-03.jpg"
+      },
+      {
+        "title": "花絮工作照 04",
+        "category": "花絮工作照",
+        "src": "/images/materials/us-花絮工作照-04.jpg"
+      },
+      {
+        "title": "海报 03",
+        "category": "海报",
+        "src": "/images/materials/us-志愿服务证明-01.jpg"
+      },
+      {
+        "title": "志愿服务证明 02",
+        "category": "志愿服务证明",
+        "src": "/images/materials/us-志愿服务证明-02.jpg"
+      }
+    ]
+  },
+  {
+    "title": "蘑菇和我",
+    "displayTitle": "蘑菇和我",
+    "english": "My Mushroom & Me",
+    "category": "微纪录片",
+    "project": "",
+    "thumbnail": "/images/moving/doc-mushroom.jpg",
+    "video": "https://1527480450.vod-qcloud.com/69d83c06vodcq1527480450/8ad016855001834827339963900/k3Js3sc7wKUA.mp4",
+    "duration": 440,
+    "date": "2025年9月",
+    "location": "云南省昆明市",
+    "description": "本片聚焦亲子自然探索之旅，跟随大人与孩子蹲守林间，观察羽毛蘑菇、金针菇等多样菌菇的纹理与形态，学习采摘时机、鉴别方法及安全常识，见证蘑菇再生奇观。在拍照记录、当地人指导与论文写作中，以实践传递自然知识，增进亲子情感，培养敬畏之心与探索热情，串联起兴趣、学习与成长的温暖历程。",
+    "honors": [],
+    "models": [],
+    "subtitle": "人与自然连接的桥梁",
+    "descriptionEn": "This documentary focuses on a parent-child nature exploration journey. Following adults and children as they crouch in the woods, it captures observations of diverse mushrooms—including feather mushrooms and enoki mushrooms—their textures and forms, while teaching picking timing, identification methods and safety precautions, and witnessing the wonder of mushroom regrowth. Through photography, local guidance and paper writing, natural knowledge is imparted through practice, parent-child bonds are strengthened, and a sense of awe for nature and enthusiasm for exploration are fostered, weaving together a warm journey of interest, learning and growth.",
+    "type": "微纪录片",
+    "locationLabel": "拍摄地点",
+    "director": "张仪佳",
+    "materials": [
+      {
+        "title": "剧照 01",
+        "category": "剧照",
+        "src": "/images/materials/mushroom-剧照-01.jpg"
+      },
+      {
+        "title": "剧照 02",
+        "category": "剧照",
+        "src": "/images/materials/mushroom-剧照-02.jpg"
+      },
+      {
+        "title": "剧照 03",
+        "category": "剧照",
+        "src": "/images/materials/mushroom-剧照-03.jpg"
+      },
+      {
+        "title": "剧照 04",
+        "category": "剧照",
+        "src": "/images/materials/mushroom-剧照-04.jpg"
+      },
+      {
+        "title": "剧照 05",
+        "category": "剧照",
+        "src": "/images/materials/mushroom-剧照-05.jpg"
+      },
+      {
+        "title": "剧照 06",
+        "category": "剧照",
+        "src": "/images/materials/mushroom-剧照-06.jpg"
+      }
+    ]
+  },
+  {
+    "title": "瑞瑞的花",
+    "displayTitle": "瑞瑞的花",
+    "english": "Ruirui’s Flowers",
+    "category": "微纪录片",
+    "project": "",
+    "thumbnail": "/images/moving/doc-flower.jpg",
+    "video": "https://1527480450.vod-qcloud.com/69d83c06vodcq1527480450/418c81fa5001834827335010487/govl7TpgQ7UA.mp4",
+    "duration": 460,
+    "date": "2025年10月",
+    "location": "云南省昆明市",
+    "description": "本片聚焦斗南花市从业者的创业与生存故事：从被裁员后从广州转战昆明，在亚洲第一花市开启鲜花事业，历经货源寻找、打包运输的艰辛，直面行业竞争与售后压力。抖音爆款、《天天向上》意外亮相的高光时刻，与常亏钱的现实交织，在与客户的真诚互动、以花识人的温暖联结中，诠释鲜花行业里生存与热爱、压力与治愈的双向奔赴。",
+    "honors": [],
+    "models": [],
+    "subtitle": "鲜花销售承载的精神成就感追求",
+    "meta": {
+      "date": "2025.10",
+      "type": "微纪录片",
+      "locationLabel": "拍摄地点",
+      "location": "云南省昆明市",
+      "director": "张仪佳"
+    },
+    "descriptionEn": "This documentary focuses on the entrepreneurial and survival journey of a practitioner at Dounan Flower Market, Asia’s top flower market. After being laid off, they moved from Guangzhou to Kunming to start a flower business, enduring hardships like sourcing supplies and packaging under tight schedules, while facing fierce industry competition and frequent after-sales issues. Intertwining highlights—viral Douyin videos and an unexpected appearance on Day Day Up—with the reality of frequent losses, it interprets the dual pursuit of survival and passion, pressure and healing in the flower industry through sincere interactions with customers and warm connections forged via flowers.",
+    "type": "微纪录片",
+    "locationLabel": "拍摄地点",
+    "director": "张仪佳",
+    "materials": [
+      {
+        "title": "剧照 01",
+        "category": "剧照",
+        "src": "/images/materials/ruirui-剧照-01.jpg"
+      },
+      {
+        "title": "剧照 02",
+        "category": "剧照",
+        "src": "/images/materials/ruirui-剧照-02.jpg"
+      },
+      {
+        "title": "剧照 03",
+        "category": "剧照",
+        "src": "/images/materials/ruirui-剧照-03.jpg"
+      },
+      {
+        "title": "剧照 04",
+        "category": "剧照",
+        "src": "/images/materials/ruirui-剧照-04.jpg"
+      },
+      {
+        "title": "剧照 05",
+        "category": "剧照",
+        "src": "/images/materials/ruirui-剧照-05.jpg"
+      },
+      {
+        "title": "剧照 06",
+        "category": "剧照",
+        "src": "/images/materials/ruirui-剧照-06.jpg"
+      }
+    ]
+  },
+  {
+    "title": "火车旁的屋脊",
+    "displayTitle": "火车旁的屋脊",
+    "english": "Roofs by the Train",
+    "category": "微纪录片",
+    "project": "",
+    "thumbnail": "/images/moving/doc-train.jpg",
+    "video": "https://1527480450.vod-qcloud.com/69d83c06vodcq1527480450/083fe5f75001834827341662330/7FXP4ZKOlusA.mp4",
+    "duration": 478,
+    "date": "2025年10月",
+    "location": "贵州省独山县",
+    "description": "本片捕捉平凡日子里的温暖瞬间：儿子携礼归家探望母亲，母亲闲暇时赴老年大学参与舞蹈课程，家人围聚厨房分工做饭，最终在客厅共享团圆晚餐。小屋旁的火车轨道静静见证这一切，男主从事与火车相关的工作，没有波澜壮阔的情节，却在柴米油盐的平淡日常中，满溢着亲情的羁绊与安稳的幸福。",
+    "honors": [],
+    "models": [],
+    "subtitle": "普通中国家庭平淡且温暖的日常",
+    "meta": {
+      "date": "2025.10",
+      "type": "微纪录片",
+      "locationLabel": "拍摄地点",
+      "location": "贵州省独山县",
+      "director": "张仪佳"
+    },
+    "descriptionEn": "This documentary captures warm moments in ordinary days: the son returns home with gifts to visit his mother, who attends dance classes at a senior university in her spare time. The family gathers in the kitchen to cook together, and finally shares a reunion dinner in the living room. The train tracks beside the small house quietly witness all this, and the male protagonist works in a train-related profession. Without dramatic plots, it is filled with the bond of family and stable happiness in the plain daily life of firewood, rice, oil and salt.",
+    "type": "微纪录片",
+    "locationLabel": "拍摄地点",
+    "director": "张仪佳",
+    "materials": [
+      {
+        "title": "剧照 01",
+        "category": "剧照",
+        "src": "/images/materials/train-roof-剧照-01.jpg"
+      },
+      {
+        "title": "剧照 02",
+        "category": "剧照",
+        "src": "/images/materials/train-roof-剧照-02.jpg"
+      },
+      {
+        "title": "剧照 03",
+        "category": "剧照",
+        "src": "/images/materials/train-roof-剧照-03.jpg"
+      },
+      {
+        "title": "剧照 04",
+        "category": "剧照",
+        "src": "/images/materials/train-roof-剧照-04.jpg"
+      },
+      {
+        "title": "剧照 05",
+        "category": "剧照",
+        "src": "/images/materials/train-roof-剧照-05.jpg"
+      },
+      {
+        "title": "剧照 06",
+        "category": "剧照",
+        "src": "/images/materials/train-roof-剧照-06.jpg"
+      }
+    ]
+  },
+  {
+    "title": "彝弦岁月",
+    "displayTitle": "彝弦岁月",
+    "english": "Echoes of the Yi Mountains",
+    "category": "微纪录片",
+    "project": "",
+    "thumbnail": "/images/moving/doc-yi.jpg",
+    "video": "https://1527480450.vod-qcloud.com/69d83c06vodcq1527480450/ee87018f5001834827337864966/cN85AUxGfjMA.mp4",
+    "duration": 826,
+    "date": "2025年11月",
+    "location": "云南省昆明市石林县",
+    "description": "本片聚焦彝族撒尼人的文化传承日常：撒尼人白天放羊、夜晚以笛子伴跳山心，舞蹈爱好者因热爱深耕技艺，三弦、唢呐与方言吟唱交织成独特韵味。从三弦比赛的竞技风采到节日里的集体欢腾，平凡生活中，老中青三代以歌舞坚守非遗，让彝族文化在烟火气与热爱中代代相传。",
+    "honors": [],
+    "models": [],
+    "subtitle": "撒尼人以歌舞守护非遗文化薪火",
+    "meta": {
+      "date": "2025.11",
+      "type": "微纪录片",
+      "locationLabel": "拍摄地点",
+      "location": "云南省昆明市石林县",
+      "team": "张仪佳 杨婉灵"
+    },
+    "descriptionEn": "This documentary focuses on the daily cultural inheritance of the Sani people of the Yi ethnic group: they herd sheep during the day and play the flute to accompany Tiaoshanxin (a traditional Sani dance) at night. Dance enthusiasts delve into their craft out of passion, with the sanxian (a three-stringed traditional instrument), suona (a double-reed wind instrument) and dialect singing weaving a unique charm. From the competitive spirit of sanxian competitions to the collective joy during festivals, in ordinary life, three generations—young, middle-aged, and elderly—uphold intangible cultural heritage through singing and dancing, passing down Yi culture from generation to generation amid the warmth of daily life and sincere passion.",
+    "type": "微纪录片",
+    "locationLabel": "拍摄地点",
+    "team": "张仪佳 杨婉灵",
+    "materials": [
+      {
+        "title": "剧照 01",
+        "category": "剧照",
+        "src": "/images/materials/yi-strings-剧照-01.jpg"
+      },
+      {
+        "title": "剧照 02",
+        "category": "剧照",
+        "src": "/images/materials/yi-strings-剧照-02.jpg"
+      },
+      {
+        "title": "剧照 03",
+        "category": "剧照",
+        "src": "/images/materials/yi-strings-剧照-03.jpg"
+      },
+      {
+        "title": "剧照 04",
+        "category": "剧照",
+        "src": "/images/materials/yi-strings-剧照-04.jpg"
+      },
+      {
+        "title": "剧照 05",
+        "category": "剧照",
+        "src": "/images/materials/yi-strings-剧照-05.jpg"
+      },
+      {
+        "title": "剧照 06",
+        "category": "剧照",
+        "src": "/images/materials/yi-strings-剧照-06.jpg"
+      }
+    ]
+  },
+  {
+    "title": "绽放",
+    "displayTitle": "绽放",
+    "english": "Grow Up",
+    "category": "剧情片",
+    "project": "",
+    "thumbnail": "/images/moving/drama-grow.jpg",
+    "video": "https://1527480450.vod-qcloud.com/69d83c06vodcq1527480450/9b4a54de5001834827343378610/lYfSkbbDSUgA.mp4",
+    "duration": 636,
+    "date": "2018年2月—2019年5月",
+    "location": "上海市",
+    "description": "金婉同学自幼因不幸身患残疾，只能依靠轮椅行走，但她从未向命运低头。在香山中学高中期间，她以顽强的意志克服了身体上的种种困难，全身心投入学习。无论是课堂上的专注，还是课后的自学，她都展现出非凡的毅力和求知欲。她的努力没有白费，最终以优异的成绩考上了自己心仪的高等院校，实现了人生的第一个重要目标。进入大学后，金婉并未止步于此。她深知残疾人在社会上面临的种种挑战，决心通过自己的努力为更多人带来希望。于是，她创办了一个工作室，专注于美术教学。她用自己的经历和热情感染了许多学生，不仅教授绘画技巧，更传递着坚持梦想、勇敢面对生活的信念。",
+    "honors": [
+      "短片获“百年树人·电影阳光行系列活动--2019年上海市中小学生微电影大赛(高中组)”金奖",
+      "剧本获“百年树人·电影阳光行系列活动--2019年上海市中小学生微电影大赛(高中组)”铜奖",
+      "短片获“心随影动爱在浦东”2020年浦东新区中小学生微电影大赛”评审特别奖"
+    ],
+    "models": [],
+    "subtitle": "身残志坚 以美术传递梦想与希望",
+    "meta": {
+      "date": "2018.2—2019.5",
+      "type": "剧情片",
+      "locationLabel": "拍摄地点",
+      "location": "上海市",
+      "director": "张仪佳",
+      "writer": "汤晨 包怡旻 王栀赟",
+      "team": "张仪佳 马誉恒 梁泽萁 王月",
+      "advisor": "姚倩"
+    },
+    "descriptionEn": "Jin Wan, who has been wheelchair-bound since childhood due to disability, never succumbed to fate. During her time at Xiangshan High School, she overcame physical challenges with remarkable determination, excelling in her studies through focus and self-discipline. Her efforts led her to her dream university, marking her first major achievement.In college, Jin Wan went further. Recognizing the struggles faced by people with disabilities, she founded an art studio to inspire others. Through teaching painting, she shared not only skills but also her belief in perseverance and courage, encouraging students to pursue their dreams and face life bravely.",
+    "type": "剧情片",
+    "locationLabel": "拍摄地点",
+    "director": "张仪佳",
+    "writer": "汤晨 包怡旻 王栀赟",
+    "team": "张仪佳 马誉恒 梁泽萁 王月",
+    "advisor": "姚倩",
+    "materials": [
+      {
+        "title": "剧照 01",
+        "category": "剧照",
+        "src": "/images/materials/bloom-剧照-01.jpg"
+      },
+      {
+        "title": "剧照 02",
+        "category": "剧照",
+        "src": "/images/materials/bloom-剧照-02.jpg"
+      },
+      {
+        "title": "剧照 03",
+        "category": "剧照",
+        "src": "/images/materials/bloom-剧照-03.jpg"
+      },
+      {
+        "title": "剧照 04",
+        "category": "剧照",
+        "src": "/images/materials/bloom-剧照-04.jpg"
+      },
+      {
+        "title": "剧照 05",
+        "category": "剧照",
+        "src": "/images/materials/bloom-剧照-05.jpg"
+      },
+      {
+        "title": "剧照 06",
+        "category": "剧照",
+        "src": "/images/materials/bloom-剧照-06.jpg"
+      },
+      {
+        "title": "花絮工作照 01",
+        "category": "花絮工作照",
+        "src": "/images/materials/bloom-花絮工作照-01.jpg"
+      },
+      {
+        "title": "花絮工作照 02",
+        "category": "花絮工作照",
+        "src": "/images/materials/bloom-花絮工作照-02.jpg"
+      },
+      {
+        "title": "花絮工作照 03",
+        "category": "花絮工作照",
+        "src": "/images/materials/bloom-花絮工作照-03.jpg"
+      },
+      {
+        "title": "花絮工作照 04",
+        "category": "花絮工作照",
+        "src": "/images/materials/bloom-花絮工作照-04.jpg"
+      },
+      {
+        "title": "剧本 01",
+        "category": "剧本",
+        "src": "/images/materials/bloom-剧本-01.jpg"
+      },
+      {
+        "title": "剧本 02",
+        "category": "剧本",
+        "src": "/images/materials/bloom-剧本-02.jpg"
+      },
+      {
+        "title": "获得荣誉 01",
+        "category": "获得荣誉",
+        "src": "/images/materials/bloom-获得荣誉-01.jpg"
+      },
+      {
+        "title": "获得荣誉 02",
+        "category": "获得荣誉",
+        "src": "/images/materials/bloom-获得荣誉-02.jpg"
+      },
+      {
+        "title": "获得荣誉 03",
+        "category": "获得荣誉",
+        "src": "/images/materials/bloom-获得荣誉-03.jpg"
+      }
+    ]
+  },
+  {
+    "title": "生日气球",
+    "displayTitle": "生日气球",
+    "english": "Birthday Balloon",
+    "category": "剧情片",
+    "project": "",
+    "thumbnail": "/images/moving/drama-birthday.jpg",
+    "video": "https://1527480450.vod-qcloud.com/69d83c06vodcq1527480450/7804b9475001834827339147368/kdYaMa5FfIMA.mp4",
+    "duration": 564,
+    "date": "2023年10月—2023年12月",
+    "location": "辽宁省大连市",
+    "description": "这是一个失去警察父亲的家庭故事，探讨了生死、记忆与亲情的力量。影片展现了家庭成员如何在悲痛中相互扶持，用爱与回忆延续逝者的精神，传递出“爱永不消逝”的温暖主题。该片讲述了一个年幼的儿子在警察父亲去世后，通过气球、贺卡和电话等方式表达对父亲的思念。母亲在悲痛中努力保护儿子，同时也在自己的情感挣扎中寻找生活的勇气。影片通过细腻的情感刻画，展现了母子二人如何在父亲生日这一特殊时刻，用简单的仪式表达对逝去亲人的怀念与告别，最终传递出爱与记忆永不消逝的深刻主题。",
+    "honors": [],
+    "models": [],
+    "subtitle": "爱与记忆延续逝者精神",
+    "meta": {
+      "date": "2023.10—2023.12",
+      "type": "剧情片",
+      "locationLabel": "拍摄地点",
+      "location": "辽宁省大连市",
+      "director": "张仪佳",
+      "writer": "张仪佳",
+      "team": "张仪佳 樊嘉豪 邓晴",
+      "advisor": "李文哲 高江龙 高珊"
+    },
+    "descriptionEn": "This is a story about a family coping with the loss of their police officer father, exploring themes of life, death, memory, and the power of family bonds. The film depicts how family members support each other in grief, using love and memories to honor the deceased, conveying the warm theme that \"love never fades.\" It follows a young son expressing his longing for his father through balloons, cards, and phone calls, while the mother struggles to protect him and find her own strength. Through delicate emotional portrayal, the film shows how the mother and son use a simple birthday ritual to remember and bid farewell to their lost loved one, ultimately delivering a profound message of enduring love and memory.",
+    "type": "剧情片",
+    "locationLabel": "拍摄地点",
+    "director": "张仪佳",
+    "writer": "张仪佳",
+    "team": "张仪佳 樊嘉豪 邓晴",
+    "advisor": "李文哲 高江龙 高珊",
+    "materials": [
+      {
+        "title": "剧照 01",
+        "category": "剧照",
+        "src": "/images/materials/birthday-balloon-剧照-01.jpg"
+      },
+      {
+        "title": "剧照 02",
+        "category": "剧照",
+        "src": "/images/materials/birthday-balloon-剧照-02.jpg"
+      },
+      {
+        "title": "剧照 03",
+        "category": "剧照",
+        "src": "/images/materials/birthday-balloon-剧照-03.jpg"
+      },
+      {
+        "title": "剧照 04",
+        "category": "剧照",
+        "src": "/images/materials/birthday-balloon-剧照-04.jpg"
+      },
+      {
+        "title": "剧照 05",
+        "category": "剧照",
+        "src": "/images/materials/birthday-balloon-剧照-05.jpg"
+      },
+      {
+        "title": "剧照 06",
+        "category": "剧照",
+        "src": "/images/materials/birthday-balloon-剧照-06.jpg"
+      },
+      {
+        "title": "花絮工作照 01",
+        "category": "花絮工作照",
+        "src": "/images/materials/birthday-balloon-花絮工作照-01.jpg"
+      },
+      {
+        "title": "花絮工作照 02",
+        "category": "花絮工作照",
+        "src": "/images/materials/birthday-balloon-花絮工作照-02.jpg"
+      },
+      {
+        "title": "花絮工作照 03",
+        "category": "花絮工作照",
+        "src": "/images/materials/birthday-balloon-花絮工作照-03.jpg"
+      },
+      {
+        "title": "花絮工作照 04",
+        "category": "花絮工作照",
+        "src": "/images/materials/birthday-balloon-花絮工作照-04.jpg"
+      },
+      {
+        "title": "剧本 01",
+        "category": "剧本",
+        "src": "/images/materials/birthday-balloon-剧本-01.jpg"
+      },
+      {
+        "title": "剧本 02",
+        "category": "剧本",
+        "src": "/images/materials/birthday-balloon-剧本-02.jpg"
+      },
+      {
+        "title": "前期文件 01",
+        "category": "前期文件",
+        "src": "/images/materials/birthday-balloon-前期文件-01.jpg"
+      },
+      {
+        "title": "前期文件 02",
+        "category": "前期文件",
+        "src": "/images/materials/birthday-balloon-前期文件-02.jpg"
+      }
+    ]
+  },
+  {
+    "title": "再遇见",
+    "displayTitle": "再遇见",
+    "english": "Alzheimer",
+    "category": "剧情片",
+    "project": "",
+    "thumbnail": "/images/moving/drama-alzheimer.jpg",
+    "video": "https://1527480450.vod-qcloud.com/69d83c06vodcq1527480450/c01c2d125001834827398629396/ihuLM2MzPasA.mp4",
+    "duration": 480,
+    "date": "2024年5月—2024年7月",
+    "location": "上海市",
+    "description": "该片讲述了一位患有阿兹海默症的老人，在清晨偶然发现一封尘封已久的信封，里面装着一张老照片和一条项链。照片勾起了她对过去的回忆，尤其是与情人在湖边的约定。尽管记忆逐渐模糊，她依然执着地前往湖边，试图寻找曾经的爱情与美好。然而，现实中的她早已年迈，记忆与现实交织，她的子女们也在暗中守护着她。影片通过细腻的情感刻画，展现了老人与家人之间的深厚情感，以及记忆逐渐消逝时的无奈与温情。最终，影片传递出尽管时间流逝，记忆可能会模糊甚至消失，但爱、情感和亲情的纽带是永恒的，它们能够超越时间和空间的限制，成为我们生命中最宝贵的财富。",
+    "honors": [],
+    "models": [],
+    "subtitle": "记忆会消逝 但爱与亲情永恒",
+    "meta": {
+      "date": "2024.5—2024.7",
+      "type": "剧情片",
+      "locationLabel": "拍摄地点",
+      "location": "上海市",
+      "director": "张仪佳",
+      "writer": "张仪佳",
+      "advisor": "李文哲 高江龙 高珊"
+    },
+    "descriptionEn": "The film tells the story of an elderly woman with Alzheimer's who discovers an old envelope containing a faded photo and a necklace. The photo triggers memories of a lakeside promise with her lover. Despite her fading memory, she clings to the past and journeys to the lake, seeking the love and beauty she once knew. However, reality intertwines with her fragmented memories, and her children watch over her in the shadows. Through delicate emotional portrayal, the film explores the deep bond between the woman and her family, as well as the bittersweet struggle of losing memories. Ultimately, it conveys that while time may erode memories, love and family endure, transcending time and space as life's most precious treasures.",
+    "type": "剧情片",
+    "locationLabel": "拍摄地点",
+    "director": "张仪佳",
+    "writer": "张仪佳",
+    "advisor": "李文哲 高江龙 高珊",
+    "materials": [
+      {
+        "title": "剧照 01",
+        "category": "剧照",
+        "src": "/images/materials/alzheimer-剧照-01.jpg"
+      },
+      {
+        "title": "剧照 02",
+        "category": "剧照",
+        "src": "/images/materials/alzheimer-剧照-02.jpg"
+      },
+      {
+        "title": "剧照 03",
+        "category": "剧照",
+        "src": "/images/materials/alzheimer-剧照-03.jpg"
+      },
+      {
+        "title": "剧照 04",
+        "category": "剧照",
+        "src": "/images/materials/alzheimer-剧照-04.jpg"
+      },
+      {
+        "title": "花絮工作照 01",
+        "category": "花絮工作照",
+        "src": "/images/materials/alzheimer-花絮工作照-01.jpg"
+      },
+      {
+        "title": "花絮工作照 02",
+        "category": "花絮工作照",
+        "src": "/images/materials/alzheimer-花絮工作照-02.jpg"
+      },
+      {
+        "title": "花絮工作照 03",
+        "category": "花絮工作照",
+        "src": "/images/materials/alzheimer-花絮工作照-03.jpg"
+      },
+      {
+        "title": "花絮工作照 04",
+        "category": "花絮工作照",
+        "src": "/images/materials/alzheimer-花絮工作照-04.jpg"
+      },
+      {
+        "title": "剧本 01",
+        "category": "剧本",
+        "src": "/images/materials/alzheimer-剧本-01.jpg"
+      },
+      {
+        "title": "剧本 02",
+        "category": "剧本",
+        "src": "/images/materials/alzheimer-剧本-02.jpg"
+      },
+      {
+        "title": "前期文件 01",
+        "category": "前期文件",
+        "src": "/images/materials/alzheimer-前期文件-01.jpg"
+      },
+      {
+        "title": "前期文件 02",
+        "category": "前期文件",
+        "src": "/images/materials/alzheimer-前期文件-02.jpg"
+      }
+    ]
+  },
+  {
+    "title": "爱华仕效应",
+    "displayTitle": "爱华仕效应",
+    "english": "The OIWAS Effect",
+    "category": "广告",
+    "project": "",
+    "thumbnail": "/images/moving/ad-aihuashi.jpg",
+    "video": "https://1527480450.vod-qcloud.com/69d83c06vodcq1527480450/572011655001834827335998302/GdzRV6K3rcAA.mp4",
+    "duration": 30,
+    "date": "2023年5月—2023年6月",
+    "location": "辽宁省大连市",
+    "description": "把蝴蝶效应用诙谐幽默的段子讲述故事，直击内心的痛点，也更好的展现爱华仕箱包独有的特色，“装得下 世界就是你的”展现了爱华仕产品不仅是一件能装载行李的工具，更是年轻用户探索世界、装载梦想的工具。",
+    "honors": [
+      "短片获第15届大学生广告创意大赛辽宁赛区二等奖"
+    ],
+    "models": [],
+    "subtitle": "装得下 世界就是你的",
+    "meta": {
+      "date": "2023.5—2023.6",
+      "type": "广告",
+      "locationLabel": "拍摄地点",
+      "location": "辽宁省大连市",
+      "team": "张仪佳 袁慧熙",
+      "advisor": "李文哲 高江龙 高珊"
+    },
+    "descriptionEn": "Using humorous and witty anecdotes to tell the story of the butterfly effect, it hits the pain points in the heart and better showcases the unique characteristics of AiHuaShi luggage. \"If you can fit the world, it's yours\" demonstrates that AiHuaShi products are not only tools for carrying luggage, but also tools for young users to explore the world and load their dreams.",
+    "type": "广告",
+    "locationLabel": "拍摄地点",
+    "team": "张仪佳 袁慧熙",
+    "advisor": "李文哲 高江龙 高珊",
+    "materials": [
+      {
+        "title": "剧照 01",
+        "category": "剧照",
+        "src": "/images/materials/aihuashi-剧照-01.jpg"
+      },
+      {
+        "title": "剧照 02",
+        "category": "剧照",
+        "src": "/images/materials/aihuashi-剧照-02.jpg"
+      },
+      {
+        "title": "获得荣誉 01",
+        "category": "获得荣誉",
+        "src": "/images/materials/aihuashi-获得荣誉-01.jpg"
+      }
+    ]
+  },
+  {
+    "title": "青春乐章",
+    "displayTitle": "青春乐章",
+    "english": "Youthful Melody",
+    "category": "广告",
+    "project": "",
+    "thumbnail": "/images/moving/ad-youth.jpg",
+    "video": "https://1527480450.vod-qcloud.com/69d83c06vodcq1527480450/ff12c6dc5001834827341288502/eORniJtAx3EA.mp4",
+    "duration": 30,
+    "date": "2023年5月—2023年6月",
+    "location": "辽宁省大连市",
+    "description": "我们用声音来表现青春的不同，声音无处不在，在五彩缤纷的世界里，我们也要用不同的方式去感受青春的乐章，彰显青春的魅力，让青春散发独有的光芒！青春是人生中最美好的时光，会勇于突破，勇于探索，肩负重任！",
+    "honors": [
+      "短片获第15届大学生广告创意大赛辽宁赛区一等奖"
+    ],
+    "models": [],
+    "subtitle": "青春掌控未来 听中国心声",
+    "meta": {
+      "date": "2023.5—2023.6",
+      "type": "广告",
+      "locationLabel": "拍摄地点",
+      "location": "辽宁省大连市",
+      "team": "张仪佳 袁慧熙",
+      "advisor": "李文哲 高江龙 高珊"
+    },
+    "descriptionEn": "We use sound to express the differences of youth. Sound is everywhere. In the colorful world, we also need to feel the music of youth in different ways, showcase the charm of youth, and let youth emit its unique light! Youth is the most beautiful time in life, where one is brave enough to break through, explore, and shoulder heavy responsibilities!",
+    "type": "广告",
+    "locationLabel": "拍摄地点",
+    "team": "张仪佳 袁慧熙",
+    "advisor": "李文哲 高江龙 高珊",
+    "materials": [
+      {
+        "title": "剧照 01",
+        "category": "剧照",
+        "src": "/images/materials/youth-anthem-剧照-01.jpg"
+      },
+      {
+        "title": "剧照 02",
+        "category": "剧照",
+        "src": "/images/materials/youth-anthem-剧照-02.jpg"
+      },
+      {
+        "title": "获得荣誉 01",
+        "category": "获得荣誉",
+        "src": "/images/materials/youth-anthem-获得荣誉-01.jpg"
+      }
+    ]
+  },
+  {
+    "title": "醉在崇明",
+    "displayTitle": "醉在崇明",
+    "english": "A Toast to Chongming",
+    "category": "广告",
+    "project": "",
+    "thumbnail": "/images/moving/ad-chongming.jpg",
+    "video": "https://1527480450.vod-qcloud.com/69d83c06vodcq1527480450/3d7e9d885001834827338919660/JxMk76YY3XYA.mp4",
+    "duration": 119,
+    "date": "2024年2月—2024年3月",
+    "location": "上海市",
+    "description": "一粒糯米，一曲酒香，跨越千年，酿就崇明老白酒的传奇。这座古称瀛洲的岛屿，孕育了独特的酒文化，而崇明老白酒，正是其中一颗璀璨的明珠。源自800多年前的崇明老白酒，以本地优质糯米和清冽泉水为原料，辅以独特的“二八曲”工艺，成就了“皮肉雪骨”的四绝品质。如今，在传承古法的基础上融入现代工艺，崇明老白酒正从上海走向世界，将中国酒文化的精髓，唱颂在全球的味蕾之上。这不仅仅是一杯酒，更是一份传承与匠心。让我们共同举杯，品味崇明老白酒的千年韵味，感受中国酒文化的博大精深。",
+    "honors": [
+      "短片获第一届地标产品国际传播大赛-短视频赛道一等奖"
+    ],
+    "models": [],
+    "subtitle": "千年酒韵 崇明匠心传世香",
+    "meta": {
+      "date": "2024.2—2024.3",
+      "type": "短视频",
+      "locationLabel": "拍摄地点",
+      "location": "上海市",
+      "team": "张仪佳 吴琼",
+      "advisor": "王怡兰"
+    },
+    "descriptionEn": "A grain of glutinous rice, a melody of wine aroma, spanning millennia, brews the legend of Chongming Old White Wine. This island, anciently known as Yingzhou, nurtures a unique wine culture, with Chongming Old White Wine as its shining gem. Originating over 800 years ago, it uses local premium glutinous rice and clear spring water, combined with the unique \"Erba Qu\" technique, achieving the four exceptional qualities of \"skin, flesh, snow, and bone.\" Today, blending traditional methods with modern technology, Chongming Old White Wine is making its way from Shanghai to the world, singing the essence of Chinese wine culture on global palates. This is not just a drink, but a legacy and craftsmanship. Let's raise our glasses to savor the millennium-old charm of Chongming Old White Wine and experience the profound depth of Chinese wine culture.",
+    "type": "短视频",
+    "locationLabel": "拍摄地点",
+    "team": "张仪佳 吴琼",
+    "advisor": "王怡兰",
+    "materials": [
+      {
+        "title": "剧照 01",
+        "category": "剧照",
+        "src": "/images/materials/chongming-剧照-01.jpg"
+      },
+      {
+        "title": "剧照 02",
+        "category": "剧照",
+        "src": "/images/materials/chongming-剧照-02.jpg"
+      },
+      {
+        "title": "获得荣誉 01",
+        "category": "获得荣誉",
+        "src": "/images/materials/chongming-获得荣誉-01.jpg"
+      }
+    ]
+  },
+  {
+    "title": "童真回忆",
+    "displayTitle": "童真回忆",
+    "english": "Childhood Memories",
+    "category": "广告",
+    "project": "",
+    "thumbnail": "/images/moving/ad-childhood.jpg",
+    "video": "https://1527480450.vod-qcloud.com/69d83c06vodcq1527480450/0a10fac65001834827334983265/fODakmSykA0A.mp4",
+    "duration": 154,
+    "date": "2024年5月—2024年6月",
+    "location": "辽宁省大连市",
+    "description": "广告以一种亲切和感人的方式开始，通过未来的自己给以前的自己的一封回信，引起观众的共鸣和注意力。通过情感化的手法，将广告的产品调性童心、童趣、可爱、快乐与每一个普通人的个人经历和情感联系起来。体现出AD钙享受片刻的童心和无忧这个特点。普通的自己也非常的优秀。",
+    "honors": [
+      "短片获第16届大学生广告创意大赛辽宁赛区三等奖"
+    ],
+    "models": [],
+    "subtitle": "童心回信 唤醒无忧时光",
+    "meta": {
+      "date": "2024.5—2024.6",
+      "type": "广告",
+      "locationLabel": "拍摄地点",
+      "location": "辽宁省大连市",
+      "team": "张思含 罗友晟 代翘阳 张仪佳",
+      "advisor": "李文哲 高江龙 高珊"
+    },
+    "descriptionEn": "The advertisement begins in a friendly and touching way, by sending a reply from the future self to the past self, evoking resonance and attention from the audience. By using emotional techniques, the product tone of the advertisement is linked to the personal experiences and emotions of every ordinary person, including childlike innocence, playfulness, cuteness, and happiness. Reflecting the childlike innocence and worry free nature of enjoying a moment of AD calcium. My ordinary self is also very excellent.",
+    "type": "广告",
+    "locationLabel": "拍摄地点",
+    "team": "张思含 罗友晟 代翘阳 张仪佳",
+    "advisor": "李文哲 高江龙 高珊",
+    "materials": [
+      {
+        "title": "剧照 01",
+        "category": "剧照",
+        "src": "/images/materials/childhood-剧照-01.jpg"
+      },
+      {
+        "title": "剧照 02",
+        "category": "剧照",
+        "src": "/images/materials/childhood-剧照-02.jpg"
+      },
+      {
+        "title": "获得荣誉 01",
+        "category": "获得荣誉",
+        "src": "/images/materials/childhood-获得荣誉-01.jpg"
+      }
+    ]
+  },
+  {
+    "title": "中国风筝",
+    "displayTitle": "中国风筝",
+    "english": "",
+    "category": "项目作品",
+    "project": "中国文化",
+    "thumbnail": "/images/moving/culture-kite.jpg",
+    "video": "https://1527480450.vod-qcloud.com/69d83c06vodcq1527480450/ee5247825001834827337837431/f3ao6PLY4g8A.mp4",
+    "duration": 51,
+    "date": "2023年10月—2024年1月",
+    "location": "辽宁省大连市",
+    "description": "本系列短视频聚焦剪纸、书法、象棋、围棋、中国结等中国传统文化技艺，以精炼的画面展现这些技艺的历史渊源、文化内涵和艺术魅力。每集围绕一项技艺，深入浅出地介绍其发展历程、技艺特点和文化象征，并融入现代生活场景，体现传统文化的传承与创新。通过镜头语言，带领观众感受中华文化的深厚底蕴和独特魅力，激发对传统文化的兴趣与热爱，增强文化自信。系列视频旨在弘扬中华优秀传统文化，展现中华民族的精神追求和智慧结晶，推动文化传承与发展。",
+    "honors": [],
+    "models": [],
+    "subtitle": "国家民委《道中华》系列",
+    "meta": {
+      "date": "2023.10—2024.1",
+      "type": "短视频",
+      "locationLabel": "拍摄地点",
+      "location": "辽宁省大连市",
+      "director": "张仪佳",
+      "advisor": "高江龙 王怡兰"
+    },
+    "descriptionEn": "This series focuses on traditional Chinese cultural arts such as paper-cutting, calligraphy, Chinese chess, Go, and Chinese knots. Through concise visuals and engaging narration, it showcases the historical roots, cultural significance, and artistic charm of these crafts. Each episode highlights one art form, explaining its evolution, techniques, and cultural symbolism, while integrating modern contexts to reflect the continuity and innovation of tradition. The series aims to immerse viewers in the depth and uniqueness of Chinese culture, sparking interest and pride in traditional heritage, and fostering cultural confidence. It seeks to promote and preserve China's rich cultural legacy, celebrating the wisdom and spirit of the Chinese nation.",
+    "type": "短视频",
+    "locationLabel": "拍摄地点",
+    "director": "张仪佳",
+    "advisor": "高江龙 王怡兰"
+  },
+  {
+    "title": "中国剪纸",
+    "displayTitle": "中国剪纸",
+    "english": "",
+    "category": "项目作品",
+    "project": "中国文化",
+    "thumbnail": "/images/moving/culture-paper.jpg",
+    "video": "https://1527480450.vod-qcloud.com/69d83c06vodcq1527480450/9b4a3b3c5001834827343378005/1Ux76luSU98A.mp4",
+    "duration": 44,
+    "date": "2023年10月—2024年1月",
+    "location": "辽宁省大连市",
+    "description": "本系列短视频聚焦剪纸、书法、象棋、围棋、中国结等中国传统文化技艺，以精炼的画面展现这些技艺的历史渊源、文化内涵和艺术魅力。每集围绕一项技艺，深入浅出地介绍其发展历程、技艺特点和文化象征，并融入现代生活场景，体现传统文化的传承与创新。通过镜头语言，带领观众感受中华文化的深厚底蕴和独特魅力，激发对传统文化的兴趣与热爱，增强文化自信。系列视频旨在弘扬中华优秀传统文化，展现中华民族的精神追求和智慧结晶，推动文化传承与发展。",
+    "honors": [],
+    "models": [],
+    "subtitle": "国家民委《道中华》系列",
+    "meta": {
+      "date": "2023.10—2024.1",
+      "type": "短视频",
+      "locationLabel": "拍摄地点",
+      "location": "辽宁省大连市",
+      "director": "张仪佳",
+      "advisor": "高江龙 王怡兰"
+    },
+    "descriptionEn": "This series focuses on traditional Chinese cultural arts such as paper-cutting, calligraphy, Chinese chess, Go, and Chinese knots. Through concise visuals and engaging narration, it showcases the historical roots, cultural significance, and artistic charm of these crafts. Each episode highlights one art form, explaining its evolution, techniques, and cultural symbolism, while integrating modern contexts to reflect the continuity and innovation of tradition. The series aims to immerse viewers in the depth and uniqueness of Chinese culture, sparking interest and pride in traditional heritage, and fostering cultural confidence. It seeks to promote and preserve China's rich cultural legacy, celebrating the wisdom and spirit of the Chinese nation.",
+    "type": "短视频",
+    "locationLabel": "拍摄地点",
+    "director": "张仪佳",
+    "advisor": "高江龙 王怡兰"
+  },
+  {
+    "title": "中国围棋",
+    "displayTitle": "中国围棋",
+    "english": "",
+    "category": "项目作品",
+    "project": "中国文化",
+    "thumbnail": "/images/moving/culture-go.jpg",
+    "video": "https://1527480450.vod-qcloud.com/69d83c06vodcq1527480450/e763c5845001834827337545284/czWjNflwJvMA.mp4",
+    "duration": 84,
+    "date": "2023年10月—2024年1月",
+    "location": "辽宁省大连市",
+    "description": "本系列短视频聚焦剪纸、书法、象棋、围棋、中国结等中国传统文化技艺，以精炼的画面展现这些技艺的历史渊源、文化内涵和艺术魅力。每集围绕一项技艺，深入浅出地介绍其发展历程、技艺特点和文化象征，并融入现代生活场景，体现传统文化的传承与创新。通过镜头语言，带领观众感受中华文化的深厚底蕴和独特魅力，激发对传统文化的兴趣与热爱，增强文化自信。系列视频旨在弘扬中华优秀传统文化，展现中华民族的精神追求和智慧结晶，推动文化传承与发展。",
+    "honors": [],
+    "models": [],
+    "subtitle": "国家民委《道中华》系列",
+    "meta": {
+      "date": "2023.10—2024.1",
+      "type": "短视频",
+      "locationLabel": "拍摄地点",
+      "location": "辽宁省大连市",
+      "director": "张仪佳",
+      "advisor": "高江龙 王怡兰"
+    },
+    "descriptionEn": "This series focuses on traditional Chinese cultural arts such as paper-cutting, calligraphy, Chinese chess, Go, and Chinese knots. Through concise visuals and engaging narration, it showcases the historical roots, cultural significance, and artistic charm of these crafts. Each episode highlights one art form, explaining its evolution, techniques, and cultural symbolism, while integrating modern contexts to reflect the continuity and innovation of tradition. The series aims to immerse viewers in the depth and uniqueness of Chinese culture, sparking interest and pride in traditional heritage, and fostering cultural confidence. It seeks to promote and preserve China's rich cultural legacy, celebrating the wisdom and spirit of the Chinese nation.",
+    "type": "短视频",
+    "locationLabel": "拍摄地点",
+    "director": "张仪佳",
+    "advisor": "高江龙 王怡兰"
+  },
+  {
+    "title": "和陶拟古九首",
+    "displayTitle": "和陶拟古九首",
+    "english": "",
+    "category": "项目作品",
+    "project": "中华经典诵读",
+    "thumbnail": "/images/moving/classics-tao.jpg",
+    "video": "https://1527480450.vod-qcloud.com/69d83c06vodcq1527480450/5747873f5001834827342723771/OMAEiDOKiogA.mp4",
+    "duration": 191,
+    "date": "2024年2月—2024年6月",
+    "location": "辽宁省大连市",
+    "description": "五千年文明，孕育了无数脍炙人口的经典诗篇。它们是中华文化的瑰宝，是民族精神的象征，更是连接古今的桥梁。本系列短视频每期围绕一首古诗，带领观众走进诗人的精神世界，感受诗词的韵律之美，领略书法的艺术魅力。视频融合诗人生平介绍、诗词朗诵、书法创作等多种形式，深入浅出地解读诗词背后的历史故事、文化内涵和情感表达。通过诵读，我们感受诗词的音韵之美，体会诗人的喜怒哀乐；通过书写，我们感悟汉字的形意之美，传承中华文化的精髓。",
+    "honors": [],
+    "models": [],
+    "subtitle": "国家普通话语言宣传推广系列",
+    "meta": {
+      "date": "2024.2—2024.6",
+      "type": "短视频",
+      "locationLabel": "拍摄地点",
+      "location": "辽宁省大连市",
+      "director": "张仪佳",
+      "advisor": "高江龙 王怡兰"
+    },
+    "descriptionEn": "Five millennia of civilization have given birth to countless timeless poems. They are treasures of Chinese culture, symbols of national spirit, and bridges connecting past and present. Each episode of this short video series focuses on a classic poem, guiding viewers into the poet's inner world to experience the rhythmic beauty of poetry and the artistic charm of calligraphy. The videos combine elements such as the poet's life story, recitation of the poem, and calligraphy creation, offering an accessible interpretation of the historical context, cultural significance, and emotional depth behind the verses. Through recitation, we appreciate the melodic beauty of poetry and the poet's emotions; through writing, we grasp the aesthetic essence of Chinese characters, passing on the core of Chinese culture.",
+    "type": "短视频",
+    "locationLabel": "拍摄地点",
+    "director": "张仪佳",
+    "advisor": "高江龙 王怡兰"
+  },
+  {
+    "title": "六月二十日夜渡海",
+    "displayTitle": "六月二十日夜渡海",
+    "english": "",
+    "category": "项目作品",
+    "project": "中华经典诵读",
+    "thumbnail": "/images/moving/classics-sea.jpg",
+    "video": "https://1527480450.vod-qcloud.com/69d83c06vodcq1527480450/f65401905001834827344985839/7XJyYnAiL7IA.mp4",
+    "duration": 211,
+    "date": "2024年2月—2024年6月",
+    "location": "辽宁省大连市",
+    "description": "五千年文明，孕育了无数脍炙人口的经典诗篇。它们是中华文化的瑰宝，是民族精神的象征，更是连接古今的桥梁。本系列短视频每期围绕一首古诗，带领观众走进诗人的精神世界，感受诗词的韵律之美，领略书法的艺术魅力。视频融合诗人生平介绍、诗词朗诵、书法创作等多种形式，深入浅出地解读诗词背后的历史故事、文化内涵和情感表达。通过诵读，我们感受诗词的音韵之美，体会诗人的喜怒哀乐；通过书写，我们感悟汉字的形意之美，传承中华文化的精髓。",
+    "honors": [],
+    "models": [],
+    "subtitle": "国家普通话语言宣传推广系列",
+    "meta": {
+      "date": "2024.2—2024.6",
+      "type": "短视频",
+      "locationLabel": "拍摄地点",
+      "location": "辽宁省大连市",
+      "director": "张仪佳",
+      "advisor": "高江龙 王怡兰"
+    },
+    "descriptionEn": "Five millennia of civilization have given birth to countless timeless poems. They are treasures of Chinese culture, symbols of national spirit, and bridges connecting past and present. Each episode of this short video series focuses on a classic poem, guiding viewers into the poet's inner world to experience the rhythmic beauty of poetry and the artistic charm of calligraphy. The videos combine elements such as the poet's life story, recitation of the poem, and calligraphy creation, offering an accessible interpretation of the historical context, cultural significance, and emotional depth behind the verses. Through recitation, we appreciate the melodic beauty of poetry and the poet's emotions; through writing, we grasp the aesthetic essence of Chinese characters, passing on the core of Chinese culture.",
+    "type": "短视频",
+    "locationLabel": "拍摄地点",
+    "director": "张仪佳",
+    "advisor": "高江龙 王怡兰"
+  },
+  {
+    "title": "上堂开示颂",
+    "displayTitle": "上堂开示颂",
+    "english": "",
+    "category": "项目作品",
+    "project": "中华经典诵读",
+    "thumbnail": "/images/moving/classics-verse.jpg",
+    "video": "https://1527480450.vod-qcloud.com/69d83c06vodcq1527480450/b215bbdd5001834827340283158/LlnVfLybPj0A.mp4",
+    "duration": 247,
+    "date": "2024年2月—2024年6月",
+    "location": "辽宁省大连市",
+    "description": "五千年文明，孕育了无数脍炙人口的经典诗篇。它们是中华文化的瑰宝，是民族精神的象征，更是连接古今的桥梁。本系列短视频每期围绕一首古诗，带领观众走进诗人的精神世界，感受诗词的韵律之美，领略书法的艺术魅力。视频融合诗人生平介绍、诗词朗诵、书法创作等多种形式，深入浅出地解读诗词背后的历史故事、文化内涵和情感表达。通过诵读，我们感受诗词的音韵之美，体会诗人的喜怒哀乐；通过书写，我们感悟汉字的形意之美，传承中华文化的精髓。",
+    "honors": [],
+    "models": [],
+    "subtitle": "国家普通话语言宣传推广系列",
+    "meta": {
+      "date": "2024.2—2024.6",
+      "type": "短视频",
+      "locationLabel": "拍摄地点",
+      "location": "辽宁省大连市",
+      "director": "张仪佳",
+      "advisor": "高江龙 王怡兰"
+    },
+    "descriptionEn": "Five millennia of civilization have given birth to countless timeless poems. They are treasures of Chinese culture, symbols of national spirit, and bridges connecting past and present. Each episode of this short video series focuses on a classic poem, guiding viewers into the poet's inner world to experience the rhythmic beauty of poetry and the artistic charm of calligraphy. The videos combine elements such as the poet's life story, recitation of the poem, and calligraphy creation, offering an accessible interpretation of the historical context, cultural significance, and emotional depth behind the verses. Through recitation, we appreciate the melodic beauty of poetry and the poet's emotions; through writing, we grasp the aesthetic essence of Chinese characters, passing on the core of Chinese culture.",
+    "type": "短视频",
+    "locationLabel": "拍摄地点",
+    "director": "张仪佳",
+    "advisor": "高江龙 王怡兰"
+  },
+  {
+    "title": "生命科学学院-生物工程",
+    "displayTitle": "生命科学学院-生物工程",
+    "english": "",
+    "category": "项目作品",
+    "project": "国家级一流专业",
+    "thumbnail": "/images/moving/major-bio.jpg",
+    "video": "https://1527480450.vod-qcloud.com/69d83c06vodcq1527480450/85a707a05001834827400950199/qloHi1aX0IoA.mp4",
+    "duration": 276,
+    "date": "2023年10月—2024年6月",
+    "location": "辽宁省大连市",
+    "description": "大连民族大学，作为一所以服务民族地区为使命的高等学府，始终致力于培养具有家国情怀和创新精神的优秀人才。学校拥有多个国家级一流本科专业，这些专业不仅是学术卓越的象征，更是服务国家战略、推动民族地区发展的重要力量。本片将带领观众深入了解这些专业如何将学术研究与国家需求紧密结合，如何培养出一批批扎根民族地区、服务国家建设的优秀学子。通过展现专业建设的丰硕成果，彰显大连民族大学在推动高等教育高质量发展、助力中华民族伟大复兴中的责任与担当。",
+    "honors": [],
+    "models": [],
+    "subtitle": "大连民族大学专业介绍",
+    "meta": {
+      "date": "2023.10—2024.6",
+      "type": "宣传片",
+      "locationLabel": "拍摄地点",
+      "location": "辽宁省大连市",
+      "director": "张仪佳",
+      "advisor": "高江龙 王怡兰"
+    },
+    "descriptionEn": "Dalian Minzu University, a higher education institution dedicated to serving ethnic regions, is committed to cultivating outstanding talents with a sense of national responsibility and innovative spirit. The university boasts several national-level first-class undergraduate programs, which not only symbolize academic excellence but also serve as vital forces in supporting national strategies and promoting the development of ethnic regions. This film will take viewers on a journey to explore how these programs integrate academic research with national needs and nurture generations of students who are deeply rooted in ethnic regions and dedicated to national development. By showcasing the fruitful achievements of these programs, the film highlights Dalian Minzu University's role in advancing high-quality higher education and contributing to the great rejuvenation of the Chinese nation.",
+    "type": "宣传片",
+    "locationLabel": "拍摄地点",
+    "director": "张仪佳",
+    "advisor": "高江龙 王怡兰"
+  },
+  {
+    "title": "生命科学学院-应用化学",
+    "displayTitle": "生命科学学院-应用化学",
+    "english": "",
+    "category": "项目作品",
+    "project": "国家级一流专业",
+    "thumbnail": "/images/moving/major-chem.jpg",
+    "video": "https://1527480450.vod-qcloud.com/69d83c06vodcq1527480450/4fe784875001834827335663099/CagTlv9yxLUA.mp4",
+    "duration": 333,
+    "date": "2023年10月—2024年6月",
+    "location": "辽宁省大连市",
+    "description": "大连民族大学，作为一所以服务民族地区为使命的高等学府，始终致力于培养具有家国情怀和创新精神的优秀人才。学校拥有多个国家级一流本科专业，这些专业不仅是学术卓越的象征，更是服务国家战略、推动民族地区发展的重要力量。本片将带领观众深入了解这些专业如何将学术研究与国家需求紧密结合，如何培养出一批批扎根民族地区、服务国家建设的优秀学子。通过展现专业建设的丰硕成果，彰显大连民族大学在推动高等教育高质量发展、助力中华民族伟大复兴中的责任与担当。",
+    "honors": [],
+    "models": [],
+    "subtitle": "大连民族大学专业介绍",
+    "meta": {
+      "date": "2023.10—2024.6",
+      "type": "宣传片",
+      "locationLabel": "拍摄地点",
+      "location": "辽宁省大连市",
+      "director": "张仪佳",
+      "advisor": "高江龙 王怡兰"
+    },
+    "descriptionEn": "Dalian Minzu University, a higher education institution dedicated to serving ethnic regions, is committed to cultivating outstanding talents with a sense of national responsibility and innovative spirit. The university boasts several national-level first-class undergraduate programs, which not only symbolize academic excellence but also serve as vital forces in supporting national strategies and promoting the development of ethnic regions. This film will take viewers on a journey to explore how these programs integrate academic research with national needs and nurture generations of students who are deeply rooted in ethnic regions and dedicated to national development. By showcasing the fruitful achievements of these programs, the film highlights Dalian Minzu University's role in advancing high-quality higher education and contributing to the great rejuvenation of the Chinese nation.",
+    "type": "宣传片",
+    "locationLabel": "拍摄地点",
+    "director": "张仪佳",
+    "advisor": "高江龙 王怡兰"
+  },
+  {
+    "title": "信息与通信工程学院-电子信息工程",
+    "displayTitle": "信息与通信工程学院-电子信息工程",
+    "english": "",
+    "category": "项目作品",
+    "project": "国家级一流专业",
+    "thumbnail": "/images/moving/major-electronics.jpg",
+    "video": "https://1527480450.vod-qcloud.com/69d83c06vodcq1527480450/367cf6cb5001834827338615796/I6qVZ5oMzfkA.mp4",
+    "duration": 276,
+    "date": "2023年10月—2024年6月",
+    "location": "辽宁省大连市",
+    "description": "大连民族大学，作为一所以服务民族地区为使命的高等学府，始终致力于培养具有家国情怀和创新精神的优秀人才。学校拥有多个国家级一流本科专业，这些专业不仅是学术卓越的象征，更是服务国家战略、推动民族地区发展的重要力量。本片将带领观众深入了解这些专业如何将学术研究与国家需求紧密结合，如何培养出一批批扎根民族地区、服务国家建设的优秀学子。通过展现专业建设的丰硕成果，彰显大连民族大学在推动高等教育高质量发展、助力中华民族伟大复兴中的责任与担当。",
+    "honors": [],
+    "models": [],
+    "subtitle": "大连民族大学专业介绍",
+    "meta": {
+      "date": "2023.10—2024.6",
+      "type": "宣传片",
+      "locationLabel": "拍摄地点",
+      "location": "辽宁省大连市",
+      "director": "张仪佳",
+      "advisor": "高江龙 王怡兰"
+    },
+    "descriptionEn": "Dalian Minzu University, a higher education institution dedicated to serving ethnic regions, is committed to cultivating outstanding talents with a sense of national responsibility and innovative spirit. The university boasts several national-level first-class undergraduate programs, which not only symbolize academic excellence but also serve as vital forces in supporting national strategies and promoting the development of ethnic regions. This film will take viewers on a journey to explore how these programs integrate academic research with national needs and nurture generations of students who are deeply rooted in ethnic regions and dedicated to national development. By showcasing the fruitful achievements of these programs, the film highlights Dalian Minzu University's role in advancing high-quality higher education and contributing to the great rejuvenation of the Chinese nation.",
+    "type": "宣传片",
+    "locationLabel": "拍摄地点",
+    "director": "张仪佳",
+    "advisor": "高江龙 王怡兰"
+  },
+  {
+    "title": "河那边",
+    "displayTitle": "河那边",
+    "english": "",
+    "category": "项目作品",
+    "project": "大学生创新创业助农项目",
+    "thumbnail": "/images/moving/river.jpg",
+    "video": "https://1527480450.vod-qcloud.com/69d83c06vodcq1527480450/fc4e5edf5001834827341123949/kX9TxEAcGZgA.m4v",
+    "duration": 368,
+    "date": "2023年1月—2023年12月",
+    "location": "辽宁省大连市",
+    "description": "助农，即支持农业、农村和农民的发展，是国家经济发展和社会稳定的重要基石。对于农副产品、和其他相关的旅游产业开发、定时追踪拍摄，记录农产品的生长，收获，销售的全过程和当地的生活产业其它方面的跟踪拍摄。坚持农副产品的流程透明化，通过建立一个平台能够随时关注农作物的生长过程。同时有着不同板块划分，生活旅游区和产品生产区而且还可以了解公司关于农副产品的视频号和相关旅游产业的推广。在抖音，快手，微信视频号等短视频平台，进行全平台，全方位的记录和宣传与直播。",
+    "honors": [],
+    "models": [],
+    "subtitle": "大学生创新创业助农项目",
+    "meta": {
+      "date": "2023.1—2023.12",
+      "type": "直播",
+      "locationLabel": "拍摄地点",
+      "location": "辽宁省大连市",
+      "advisor": "李文哲"
+    },
+    "descriptionEn": "Supporting agriculture, rural areas, and farmers is a cornerstone of national economic development and social stability. For agricultural products and related tourism industries, regular tracking and filming can document the entire process of crop growth, harvest, and sales, as well as other aspects of local life and industries. By ensuring transparency in the agricultural product supply chain, a platform can be established to allow real-time monitoring of crop growth. The platform can feature different sections, such as lifestyle and tourism areas, and product production zones, while also providing access to the company's video content on agricultural products and tourism promotions. Through platforms like Douyin, Kuaishou, and WeChat Video Channels, comprehensive recording, promotion, and live streaming can be achieved across all platforms.",
+    "type": "直播",
+    "locationLabel": "拍摄地点",
+    "advisor": "李文哲"
+  },
+  {
+    "title": "寻找童年系列纪录片之方胜纹",
+    "displayTitle": "寻找童年系列纪录片之方胜纹",
+    "english": "",
+    "category": "项目作品",
+    "project": "旭纪录实习项目",
+    "thumbnail": "/images/moving/childhood-fang.jpg",
+    "video": "https://1527480450.vod-qcloud.com/69d83c06vodcq1527480450/a8c856bd5001834827343904146/e7aOPj5JIqsA.mp4",
+    "duration": 319,
+    "date": "2025年6月—2025年8月",
+    "location": "上海市",
+    "description": "协助导演推进纪录片全流程，挖掘选题、参与选题会并整理纪要。对接被摄对象及场地，跟进现场拍摄、记录日志、整理备份素材。负责剪辑与音视频处理，规范管理项目文件，协调突发事宜，保障项目顺利推进。",
+    "honors": [],
+    "models": [],
+    "company": "上海旭纪录文化科技有限公司",
+    "role": "导演助理",
+    "type": "纪录片",
+    "locationLabel": "拍摄地点",
+    "descriptionEn": "Assist the director throughout documentary production, research topics, join topic meetings and prepare notes. Liaise with participants and locations, support on-set filming, log and back up footage. Edit picture and sound, manage project files, coordinate unexpected issues, and help keep production on track.",
+    "projectNote": "旭纪录寻找童年第八、九、十集，全网播放量 800 万。",
+    "projectNoteEn": "Participated in episodes 8, 9 and 10 of Xu Documentary’s Finding Childhood series, which reached 8 million views across platforms.",
+    "bilibiliUrl": "https://www.bilibili.com/video/BV12j83zKELA/",
+    "bilibiliStats": "第332期每周必看 · 播放量475.5万 · 弹幕数4709 · 点赞数22万 · 投币数2.8万 · 收藏数8.2万 · 转发数8384"
+  },
+  {
+    "title": "寻找童年系列纪录片之奶茶鸡柳摊",
+    "displayTitle": "寻找童年系列纪录片之奶茶鸡柳摊",
+    "english": "",
+    "category": "项目作品",
+    "project": "旭纪录实习项目",
+    "thumbnail": "/images/moving/childhood-milk.jpg",
+    "video": "https://1527480450.vod-qcloud.com/69d83c06vodcq1527480450/8ad09a6b5001834827339964707/aopuiOdOYTsA.mp4",
+    "duration": 320,
+    "date": "2025年6月—2025年8月",
+    "location": "上海市",
+    "description": "协助导演推进纪录片全流程，挖掘选题、参与选题会并整理纪要。对接被摄对象及场地，跟进现场拍摄、记录日志、整理备份素材。负责剪辑与音视频处理，规范管理项目文件，协调突发事宜，保障项目顺利推进。",
+    "honors": [],
+    "models": [],
+    "company": "上海旭纪录文化科技有限公司",
+    "role": "导演助理",
+    "type": "纪录片",
+    "locationLabel": "拍摄地点",
+    "descriptionEn": "Assist the director throughout documentary production, research topics, join topic meetings and prepare notes. Liaise with participants and locations, support on-set filming, log and back up footage. Edit picture and sound, manage project files, coordinate unexpected issues, and help keep production on track.",
+    "projectNote": "旭纪录寻找童年第八、九、十集，全网播放量 800 万。",
+    "projectNoteEn": "Participated in episodes 8, 9 and 10 of Xu Documentary’s Finding Childhood series, which reached 8 million views across platforms.",
+    "bilibiliUrl": "https://www.bilibili.com/video/BV1xN3dz2Ev5/",
+    "bilibiliStats": "播放量87.1万 · 弹幕数2193 · 点赞数3万 · 投币数5931 · 收藏数9606 · 转发数3933"
+  },
+  {
+    "title": "寻找童年系列纪录片之水浒英雄卡",
+    "displayTitle": "寻找童年系列纪录片之水浒英雄卡",
+    "english": "",
+    "category": "项目作品",
+    "project": "旭纪录实习项目",
+    "thumbnail": "/images/moving/childhood-card.jpg",
+    "video": "https://1527480450.vod-qcloud.com/69d83c06vodcq1527480450/4c0d945f5001834827342289611/SO4ghdDiinEA.mp4",
+    "duration": 1498,
+    "date": "2025年6月—2025年8月",
+    "location": "上海市",
+    "description": "协助导演推进纪录片全流程，挖掘选题、参与选题会并整理纪要。对接被摄对象及场地，跟进现场拍摄、记录日志、整理备份素材。负责剪辑与音视频处理，规范管理项目文件，协调突发事宜，保障项目顺利推进。",
+    "honors": [],
+    "models": [],
+    "company": "上海旭纪录文化科技有限公司",
+    "role": "导演助理",
+    "type": "纪录片",
+    "locationLabel": "拍摄地点",
+    "descriptionEn": "Assist the director throughout documentary production, research topics, join topic meetings and prepare notes. Liaise with participants and locations, support on-set filming, log and back up footage. Edit picture and sound, manage project files, coordinate unexpected issues, and help keep production on track.",
+    "projectNote": "旭纪录寻找童年第八、九、十集，全网播放量 800 万。",
+    "projectNoteEn": "Participated in episodes 8, 9 and 10 of Xu Documentary’s Finding Childhood series, which reached 8 million views across platforms.",
+    "bilibiliUrl": "https://www.bilibili.com/video/BV1SGHtzeEEX/",
+    "bilibiliStats": "播放量23.9万 · 弹幕数3572 · 点赞数1.2万 · 投币数6824 · 收藏数6356 · 转发数2331"
+  },
+  {
+    "title": "新华财经短视频",
+    "displayTitle": "新华财经短视频",
+    "english": "",
+    "category": "项目作品",
+    "project": "孙与友实习项目",
+    "thumbnail": "/images/moving/sun-xinhua.jpg",
+    "video": "https://1527480450.vod-qcloud.com/69d83c06vodcq1527480450/dbb975745001834827337044400/db1A5nC0USMA.mp4",
+    "duration": 530,
+    "date": "2025年8月—2025年12月",
+    "location": "云南省昆明市",
+    "description": "财经人物与行业内容短视频，负责素材整理、剪辑和交付。",
+    "honors": [],
+    "models": []
+  },
+  {
+    "title": "一般纳税人登记需注意哪些变化v3",
+    "displayTitle": "一般纳税人登记需注意哪些变化v3",
+    "english": "",
+    "category": "项目作品",
+    "project": "孙与友实习项目",
+    "thumbnail": "/images/moving/sun-tax.jpg",
+    "video": "https://1527480450.vod-qcloud.com/69d83c06vodcq1527480450/783b8e865001834827339178318/Z21a47XFnY8A.mp4",
+    "duration": 111,
+    "date": "2025年8月—2025年12月",
+    "location": "云南省昆明市",
+    "description": "围绕一般纳税人登记政策变化制作的税务科普短视频。",
+    "honors": [],
+    "models": []
+  },
+  {
+    "title": "云南技师学院非遗研培故事系列片",
+    "displayTitle": "云南技师学院非遗研培故事系列片",
+    "english": "",
+    "category": "项目作品",
+    "project": "孙与友实习项目",
+    "thumbnail": "/images/moving/sun-heritage.jpg",
+    "video": "https://1527480450.vod-qcloud.com/69d83c06vodcq1527480450/8612fb025001834827339752073/QnlYKzsEY8wA.mp4",
+    "duration": 281,
+    "date": "2025年8月—2025年12月",
+    "location": "云南省昆明市",
+    "description": "记录云南技师学院非遗研培项目与参与者故事。",
+    "honors": [],
+    "models": []
+  },
+  {
+    "title": "中国移动云南新闻联播第二期",
+    "displayTitle": "中国移动云南新闻联播第二期",
+    "english": "",
+    "category": "项目作品",
+    "project": "孙与友实习项目",
+    "thumbnail": "/images/moving/sun-news.jpg",
+    "video": "https://1527480450.vod-qcloud.com/69d83c06vodcq1527480450/9b592fe05001834827343382914/hhJIV3mkZ60A.mp4",
+    "duration": 555,
+    "date": "2025年8月—2025年12月",
+    "location": "云南省昆明市",
+    "description": "云南移动新闻联播系列短视频内容。",
+    "honors": [],
+    "models": []
+  }
+]

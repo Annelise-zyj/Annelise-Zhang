@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#19171d">
+  <meta name="description" content="Annelise Zhang 摄影档案。">
+  <title>摄影档案 — Annelise Zhang</title>
+  <link rel="stylesheet" href="./src/styles/photos.css">
+  <link rel="stylesheet" href="./src/styles/above-chapter.css?direct">
+</head>
+<body>
+  <main class="photo-archive" id="photo-archive">
+    <div class="photo-archive__aurora" aria-hidden="true"></div>
+    <div class="photo-archive__grain" aria-hidden="true"></div>
+    <header class="photo-header">
+      <a class="photo-header__brand" href="./index.html">Annelise Zhang’s Portfolio</a>
+      <nav class="photo-nav" aria-label="章节导航">
+        <a href="./page2.html">目录</a>
+        <a href="./page3.html#profile">个人介绍</a>
+        <a href="./page4.html">影像档案</a>
+        <a class="is-current" href="#photo-archive" aria-current="page">摄影档案</a>
+        <a class="photo-nav__talk" href="./page6.html#contact">Let’s Talk <span aria-hidden="true">↗</span></a>
+      </nav>
+    </header>
+
+    <section class="photo-intro" aria-labelledby="photo-title">
+      <p class="photo-intro__eyebrow">05 / PHOTOGRAPHY ARCHIVE</p>
+      <h1 id="photo-title">摄影档案<span>。</span></h1>
+      <p>拖动旋转 · 点击图片展开</p>
+    </section>
+
+    <section class="photo-sphere" aria-label="可拖动旋转的摄影作品球体">
+      <div class="photo-sphere__halo" aria-hidden="true"></div>
+      <div id="photo-scene" class="photo-sphere__scene" aria-hidden="true"></div>
+      <span class="photo-sphere__hint" aria-hidden="true"><i></i> DRAG TO EXPLORE</span>
+      <div class="photo-sphere__fallback" id="photo-fallback" hidden></div>
+    </section>
+
+    <div class="photo-keyboard-list" id="photo-keyboard-list" aria-label="摄影作品列表"></div>
+    <footer class="photo-footer"><span>DIRECTED BY ANNELISE ZHANG</span></footer>
+    <span class="photo-page">05 / 06</span>
+  </main>
+
+  <dialog class="photo-viewer" id="photo-viewer" aria-label="摄影作品大图">
+    <button class="photo-viewer__close" type="button" aria-label="关闭大图">×</button>
+    <div class="photo-viewer__top"><span>Annelise Zhang’s Portfolio</span><span id="photo-viewer-index">01 / 50</span></div>
+    <div class="photo-viewer__image-wrap"><img id="photo-viewer-image" alt=""></div>
+  </dialog>
+  <script type="module" src="./src/scripts/photos.js"></script>
+  <script type="module" src="./src/scripts/integrated-bridge.ts"></script>
+</body>
+</html>

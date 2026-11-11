@@ -1,0 +1,123 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#1a171e">
+  <meta name="description" content="Annelise Zhang — 个人简介、技能与经历">
+  <title>个人简介 — Annelise Zhang</title>
+  <link rel="stylesheet" href="./src/styles/index.scss">
+  <link rel="stylesheet" href="./src/styles/above-chapter.css?direct">
+</head>
+<body data-page="profile">
+  <main class="profile" id="profile">
+    <div class="profile__aurora" aria-hidden="true"></div>
+    <div class="cover__grain" aria-hidden="true"></div>
+
+    <header class="profile__header">
+      <a class="profile__brand" href="./index.html" aria-label="返回作品集封面">Annelise Zhang’s Portfolio</a>
+      <nav class="profile__nav" aria-label="章节导航">
+        <a href="./page2.html">目录</a>
+        <a class="is-current" href="#profile" aria-current="page">个人介绍</a>
+        <a href="./page4.html">影像档案</a>
+        <a href="./page5.html">摄影档案</a>
+        <a class="profile__talk" href="./page6.html#contact">Let’s Talk <span aria-hidden="true">↗</span></a>
+      </nav>
+    </header>
+
+    <div class="profile__stage">
+      <div class="profile__intro">
+        <div class="profile__eyebrow"><span class="profile__eyebrow-line"></span> 03 / ABOUT ME</div>
+        <h1>用影像，<br><em>靠近</em>真实。</h1>
+        <p class="profile__intro-en">FILMMAKER · VISUAL STORYTELLER<br>AI-ASSISTED CREATOR</p>
+        <p class="profile__statement">以影像创作与摄影观察人与土地，也持续探索 AI 如何成为叙事和视觉表达的创作工具。</p>
+        <div class="profile__keywords" aria-label="个人特质">
+          <span>开朗乐观</span><span>善于沟通</span><span>责任感</span><span>独立思考</span><span>团队协作</span><span>抗压能力</span>
+        </div>
+      </div>
+
+      <div class="profile__portrait-column">
+        <div class="profile__hanger" id="portrait-hanger" aria-label="张仪佳的个人照片，鼠标移动会带动照片产生形变">
+        <div class="profile__fall">
+            <div class="profile__swing">
+              <div class="profile__photo-shell">
+                <svg class="profile__photo" id="portrait-svg" viewBox="0 0 600 900" role="img" aria-label="张仪佳的个人肖像">
+                  <defs>
+                    <filter id="portrait-displacement" x="-40%" y="-40%" width="180%" height="180%">
+                      <feTurbulence type="turbulence" baseFrequency="0.07" numOctaves="2" seed="2" stitchTiles="stitch" result="noise"></feTurbulence>
+                      <feDisplacementMap id="portrait-map" in="SourceGraphic" in2="noise" scale="0" xChannelSelector="R" yChannelSelector="B"></feDisplacementMap>
+                    </filter>
+                  </defs>
+                  <image href="./images/annelise-portrait.jpg" x="60" y="90" width="480" height="720" preserveAspectRatio="xMidYMid slice" filter="url(#portrait-displacement)"></image>
+                </svg>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="profile__facts">
+        <p class="profile__facts-kicker">A NOTE ON THE MAKER</p>
+        <h2>张仪佳<br><span>Annelise Zhang</span></h2>
+        <div class="profile__fact-block">
+          <span class="profile__num">01 / EDUCATION</span>
+          <p>云南艺术学院 <small>2025年9月—2028年6月 · 硕士在读 · 戏剧与影视</small></p>
+          <p>大连民族大学 <small>2021年9月—2025年6月 · 本科 · 动画</small></p>
+          <p class="profile__minor">本科 GPA 3.8 / 4 · 专业排名 1 / 73</p>
+        </div>
+        <div class="profile__fact-block profile__fact-block--skill">
+          <span class="profile__num">02 / PRACTICE & TOOLS</span>
+          <p class="profile__fact-title">创作与技术</p>
+          <p class="profile__minor">摄影摄像、剪辑、调色；Pr、Ps、Lr、DaVinci Resolve、Office；熟悉佳能、索尼、松下相机。</p>
+          <p class="profile__fact-title">常用 AI 模型</p>
+          <p class="profile__minor">GPT-6、DeepSeek-V4、Nano-Banana-2.1、Image-2.5、Seedream 5.0、SeeDance2.5、MiniMax H3。</p>
+          <p class="profile__fact-title">常用 AI 工具</p>
+          <p class="profile__minor">Chat GPT、WorkBuddy、Codex、DeepSeek Harness、LibTV、Gemin Notebook、Creativefitting。</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="profile__bottom">
+      <div class="profile__bottom-note"><span class="profile__tiny-dot"></span> DIRECTED BY ANNELISE ZHANG</div>
+      <div class="profile__actions">
+        <button type="button" data-modal="internships"><span>01</span> 实习经历 <b aria-hidden="true">↗</b></button>
+        <button type="button" data-modal="honors"><span>02</span> 荣誉奖项 <b aria-hidden="true">↗</b></button>
+      </div>
+      <span class="profile__page">03 / 06</span>
+    </div>
+
+    <div class="profile__cursor" id="profile-cursor" aria-hidden="true"><span></span><i></i></div>
+  </main>
+
+  <dialog class="profile-modal" id="internships" aria-labelledby="internships-title">
+    <div class="profile-modal__inner">
+      <div class="profile-modal__head"><span>PROFILE / EXPERIENCE</span><button type="button" data-close aria-label="关闭实习经历窗口">×</button></div>
+      <h2 id="internships-title">实习经历</h2>
+      <p class="profile-modal__deck">五段实践，贯穿影像制作、纪录片、后期与 AI 影像处理。</p>
+      <div class="profile-modal__list">
+        <article><div class="profile-modal__meta">2025年1月—2026年3月 <span>01 / 05</span></div><h3>上海哔哩哔哩科技有限公司 <small>AI调色师</small></h3><ol><li>参与AI画质增强模型训练数据构建，依据既定标准对视频画面的视觉特征进行标注与分类，为模型训练提供数据支持。</li><li>参与HDR转SDR相关影像处理工作，对AI处理前后的画面进行质量审核，评估色彩表现、亮度层次、对比度及整体视觉效果。</li><li>使用DaVinci Resolve进行视频调色与色彩校准，针对画面曝问题进行调整，优化AI处理后的画面呈现效果。</li><li>参与影视内容视觉风格标签体系整理，积累视频画质评估、AI影像处理及后期制作相结合的实践经验。</li></ol><p class="profile-modal__projects">参与项目：动画《凡人修仙传》《牧神记》《深空彼岸》等。</p></article>
+        <article><div class="profile-modal__meta">2025年8月—2025年12月 <span>02 / 05</span></div><h3>云南孙和友文化传媒有限公司 <small>剪辑师</small></h3><ol><li>负责公司各类视频素材整理、筛选与精剪，贴合内容调性搭建叙事逻辑。</li><li>优化音视频效果、添加字幕特效，对接需求方调整修改。</li><li>规范归档项目文件，把控成片质量与交付时效，配合团队完成创作任务。</li></ol><p class="profile-modal__projects">参与项目：新华网财经人物访谈片、云南技师学院人物纪实片、中国移动云南新闻联播等。</p></article>
+        <article><div class="profile-modal__meta">2025年6月—2025年8月 <span>03 / 05</span></div><h3>上海旭纪录文化科技有限公司 <small>导演助理</small></h3><ol><li>协助导演推进纪录片全流程，挖掘选题、参与选题会并整理纪要。</li><li>对接被摄对象及场地，跟进现场拍摄、记录日志、整理备份素材。</li><li>负责剪辑与音视频处理，规范管理项目文件，协调突发事宜，保障项目顺利推进。</li></ol><p class="profile-modal__projects">参与项目：旭纪录寻找童年系列第八、九、十集等。（全网800万播放量）。</p></article>
+        <article><div class="profile-modal__meta">2023年6月—2023年8月 <span>04 / 05</span></div><h3>上海吾尔赫兹影视有限公司 <small>制片助理</small></h3><ol><li>协调后期制片工作的各个方面，确保整个制作过程的顺利进行。</li><li>维护和管理项目文件，包括剧本、拍摄日志、场景列表、演员和工作人员信息等。</li><li>进行基本的编辑工作，如整理素材、修剪镜头、处理音频等。</li></ol><p class="profile-modal__projects">参与项目：网剧《繁城之下》、迪桑特广告、杜蕾斯广告、莲花汽车广告、百事薯片广告等。</p></article>
+        <article><div class="profile-modal__meta">2022年9月—2024年6月 <span>05 / 05</span></div><h3>皮皮村媒体视频研究组 <small>组长</small></h3><ol><li>制定短视频研究方向和目标，确保研究工作按计划进行。</li><li>负责项目文件的制作与梳理，涵盖剧本创作、场景列表编排、演员及工作人员信息整理。</li><li>代表研究组参加学术会议，与其他研究人员进行交流，推广研究成果。</li></ol><p class="profile-modal__projects">参与项目：国家民委《道中华》《中国文化》系列短视频项目导演、大创《河那边》助农项目合伙人。国家普通话语言宣传推广《中华经典诵读》系列短视频导演、国家级一流专业宣传片导演。</p></article>
+      </div>
+    </div>
+  </dialog>
+
+  <dialog class="profile-modal" id="honors" aria-labelledby="honors-title">
+    <div class="profile-modal__inner">
+      <div class="profile-modal__head"><span>PROFILE / HONORS</span><button type="button" data-close aria-label="关闭荣誉奖项窗口">×</button></div>
+      <h2 id="honors-title">荣誉奖项</h2>
+      <div class="profile-modal__honors">
+        <section class="profile-modal__honors-year"><span>2026</span><div><p>获云南艺术学院研究生三等奖学金。</p><p>纪实+AI制作作品龙润三日被中国国家图书馆永久收藏。</p><p>获横店影视节第二届大学生原创短片奖入围。</p><p>获第十二届民族影视与非遗影像研讨会入围影视作品。</p><p>获云南艺术学院挑战杯大学生创业计划竞赛二等奖。</p></div></section>
+        <section class="profile-modal__honors-year"><span>2025</span><div><p>获辽宁省普通高等学校2025届优秀毕业生。</p></div></section>
+        <section class="profile-modal__honors-year"><span>2024</span><div><p>获校优秀一等奖学金及优秀三好学生称号、优秀共青团员称号。</p><p>获第26届大学生广告创意大赛辽宁赛区二等奖、三等奖。</p><p>获第三届全国大学生新媒体创意大赛摄影组二等奖。</p><p>获第一届地标产品国际传播大赛短视频赛道一等奖。</p></div></section>
+        <section class="profile-modal__honors-year"><span>2023</span><div><p>获第25届大学生广告创意大赛辽宁赛区一等奖、二等奖。</p><p>获校优秀一等奖学金及优秀三好学生称号、优秀共青团干部称号。</p></div></section>
+        <section class="profile-modal__honors-year"><span>2022</span><div><p>获年度大连爱纳孤独症障碍者综合服务中心杰出学生志愿者领袖荣誉称号。</p><p>获第七届全国大学生微结构摄影大赛艺术创新组二等奖。</p><p>获校优秀学生干部奖学金及三好学生称号。</p></div></section>
+      </div>
+    </div>
+  </dialog>
+  <script type="module" src="./src/scripts/profile.ts"></script>
+  <script type="module" src="./src/scripts/integrated-bridge.ts"></script>
+</body>
+</html>

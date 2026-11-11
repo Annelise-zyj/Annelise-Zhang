@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#19171d">
+  <meta name="description" content="Annelise Zhang 影像档案：纪录片、剧情片、广告与 AI 影像作品。">
+  <title>影像档案 — Annelise Zhang</title>
+  <link rel="stylesheet" href="./src/styles/works.css">
+  <link rel="stylesheet" href="./src/styles/above-chapter.css?direct">
+</head>
+<body data-page="works">
+  <main class="archive" id="archive">
+    <div class="archive__aurora" aria-hidden="true"></div>
+    <div class="archive__grain" aria-hidden="true"></div>
+    <header class="archive__header">
+      <a class="archive__brand" href="./index.html">Annelise Zhang’s Portfolio</a>
+      <nav class="archive__nav" aria-label="章节导航">
+        <a href="./page2.html">目录</a>
+        <a href="./page3.html#profile">个人介绍</a>
+        <a class="is-current" href="#archive" aria-current="page">影像档案</a>
+        <a href="./page5.html">摄影档案</a>
+        <a href="./page6.html#contact" class="archive__talk">Let’s Talk <span aria-hidden="true">↗</span></a>
+      </nav>
+    </header>
+    <section class="archive__intro">
+      <p class="archive__eyebrow">04 / IMAGE ARCHIVE</p>
+      <h1>影像档案<span>。</span></h1>
+      <p>从纪实观察到影像实验，沿着作品集的分类与顺序，逐部展开。</p>
+      <div class="archive__counts"><span>33 <i>作品</i></span><span>06 <i>类别</i></span><span>点击封面，展开作品信息</span></div>
+    </section>
+    <div class="archive__groups" id="work-groups"></div>
+    <footer class="archive__footer"><span>DIRECTED BY ANNELISE ZHANG</span></footer>
+    <span class="archive__page">04 / 06</span>
+  </main>
+
+  <div class="transition-layer" id="transition-layer" aria-hidden="true"></div>
+  <dialog class="work-modal" id="work-modal" aria-labelledby="modal-title">
+    <button class="work-modal__close" type="button" aria-label="关闭作品详情">×</button>
+    <div class="work-modal__top"><span>Annelise Zhang’s Portfolio</span><span id="modal-category">作品档案 / 纪录片</span></div>
+    <div class="work-modal__body">
+      <div class="work-modal__visual">
+        <div class="work-modal__player"><video id="work-video" controls playsinline preload="metadata"></video><button class="work-modal__playhint" id="modal-play" type="button">点击播放 <span>↗</span></button><p class="work-modal__video-error" id="video-error" hidden>视频暂时无法加载。<a id="video-source-link" target="_blank" rel="noopener">打开视频源 ↗</a></p></div>
+      </div>
+      <article class="work-modal__info">
+        <p class="work-modal__label" id="modal-project"></p>
+        <h2 id="modal-title"></h2>
+        <p class="work-modal__description" id="modal-description"></p>
+        <details class="work-modal__english" id="modal-english-details" hidden>
+          <summary><span>English</span><span id="modal-english"></span><i aria-hidden="true">+</i></summary>
+          <p class="work-modal__description work-modal__description--en" id="modal-description-en"></p>
+        </details>
+        <dl class="work-modal__meta" id="modal-meta"></dl>
+        <div class="work-modal__honors-wrap" id="honors-wrap"><h3>获得荣誉</h3><ul id="modal-honors"></ul></div>
+        <div class="work-modal__actions"><span>FILM DETAILS</span><span id="modal-runtime"></span></div>
+      </article>
+    </div>
+    <section class="work-modal__materials" id="modal-materials" aria-label="作品相关资料"></section>
+  </dialog>
+  <dialog class="material-viewer" id="material-viewer" aria-label="作品资料大图">
+    <button class="material-viewer__close" type="button" aria-label="关闭大图">×</button>
+    <img id="material-viewer-image" alt="">
+  </dialog>
+  <script src="/reference/codrops-repeating-image-transition/js/gsap.min.js"></script>
+  <script type="module" src="./src/scripts/works.js"></script>
+  <script type="module" src="./src/scripts/integrated-bridge.ts"></script>
+</body>
+</html>

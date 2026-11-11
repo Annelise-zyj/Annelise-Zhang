@@ -1,0 +1,17 @@
+html, body { width: 100%; min-height: 100%; overflow: hidden; }
+body { margin: 0; background: #050407; color: #f7f4ee; font-family: Arial, Helvetica, sans-serif; }
+.cover { position: relative; width: 100%; height: 100vh; height: 100svh; min-height: 480px; overflow: hidden; isolation: isolate; background: #050407; }
+#webgl, #webgl canvas { position: absolute; inset: 0; width: 100%; height: 100%; }
+#webgl { z-index: 1; pointer-events: none; }
+#webgl canvas { display: block; mix-blend-mode: screen; }
+.cover__grain { position: absolute; z-index: 2; inset: 0; pointer-events: none; opacity: .22; background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.7' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)' opacity='.23'/%3E%3C/svg%3E"); mix-blend-mode: soft-light; }
+.cover__top, .cover__bottom { position: absolute; z-index: 4; left: 3.6vw; right: 3.6vw; display: flex; justify-content: space-between; gap: 24px; font: 500 11px/1.4 Arial, Helvetica, sans-serif; letter-spacing: .21em; }
+.cover__top { top: 32px; }
+.cover__bottom { bottom: 30px; color: #c4bbc9; }
+.cover__bottom span:last-child span { display: inline-block; margin-left: 12px; font-size: 18px; line-height: 8px; transition: transform .3s; }
+.cover__center { position: absolute; z-index: 3; top: 50%; left: 50%; width: min(96%, 1500px); transform: translate(-50%, -50%); text-align: center; pointer-events: none; }
+.cover__kicker { margin: 0 0 clamp(18px, 3vw, 34px); font: 500 11px/1.4 Arial, Helvetica, sans-serif; letter-spacing: .45em; color: #c9becd; }
+.cover__title { margin: 0; font: 400 clamp(62px, 10.8vw, 174px)/.95 Georgia, 'Times New Roman', serif; letter-spacing: -.085em; white-space: nowrap; color: #f7f3ed; text-shadow: 0 3px 22px rgba(0,0,0,.65); }
+.cover__hint { margin: clamp(18px, 3vw, 34px) 0 0; font: 500 10px/1.5 Arial, Helvetica, sans-serif; letter-spacing: .27em; color: #b9aabc; }
+@media (max-width: 700px) { .cover__top, .cover__bottom { left: 22px; right: 22px; font-size: 9px; letter-spacing: .13em; } .cover__top { top: 23px; } .cover__bottom { bottom: 23px; } .cover__title { white-space: normal; font-size: clamp(70px, 16vw, 120px); line-height: .84; } .cover__center { width: 94%; } .cover__kicker { font-size: 9px; letter-spacing: .28em; } .cover__hint { font-size: 9px; letter-spacing: .15em; } }
+@media (prefers-reduced-motion: reduce) { .cover__bottom span:last-child span { transition: none; } }

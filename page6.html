@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#19171d">
+  <meta name="description" content="联系 Annelise Zhang，开启下一段影像创作。">
+  <title>保持联系 — Annelise Zhang</title>
+  <link rel="stylesheet" href="./src/styles/contact.css?v=20261111-contact-side-design">
+  <link rel="stylesheet" href="./src/styles/above-chapter.css?direct">
+</head>
+<body>
+  <main class="contact" id="contact">
+    <div class="contact__aurora" aria-hidden="true"></div>
+    <div class="contact__grain" aria-hidden="true"></div>
+
+    <header class="contact__header">
+      <a class="contact__brand" href="./index.html">Annelise Zhang’s Portfolio</a>
+      <nav class="contact__nav" aria-label="章节导航">
+        <a href="./page2.html">目录</a>
+        <a href="./page3.html#profile">个人介绍</a>
+        <a href="./page4.html">影像档案</a>
+        <a href="./page5.html">摄影档案</a>
+        <a class="contact__talk is-current" href="#contact" aria-current="page">Let’s Talk <span aria-hidden="true">↗</span></a>
+      </nav>
+    </header>
+
+    <section class="contact__stage" aria-labelledby="contact-title">
+      <canvas class="contact__bulge" id="contact-bulge" aria-hidden="true"></canvas>
+      <h1 class="contact__sr-title" id="contact-title">Let’s Talk — Annelise Zhang</h1>
+      <p class="contact__fallback-title" aria-hidden="true">Let’s Talk</p>
+      <div class="contact__contacts" aria-label="联系方式">
+        <div class="contact__contact-group">
+          <span class="contact__contact-label">EMAIL</span>
+          <a href="mailto:zyj20021014@126.com">zyj20021014@126.com</a>
+          <a href="mailto:zyj20021014@gmail.com">zyj20021014@gmail.com</a>
+        </div>
+        <div class="contact__contact-group contact__contact-group--right">
+          <span class="contact__contact-label">PHONE</span>
+          <a href="tel:+8617721123490">+86 177 2112 3490</a>
+          <span class="contact__contact-label contact__contact-label--wechat">WECHAT</span>
+          <button class="contact__wechat" type="button" data-copy="Annie_umbrella" aria-label="复制微信号 Annie_umbrella">Annie_umbrella</button>
+        </div>
+      </div>
+      <video class="contact__portrait" id="contact-video" autoplay loop muted playsinline preload="auto" aria-label="Annelise Zhang 的透明人物视频">
+        <source src="/videos/11-10-transparent.webm" type="video/webm">
+      </video>
+      <span class="contact__copy-status" id="copy-status" role="status" aria-live="polite"></span>
+    </section>
+
+    <footer class="contact__footer">
+      <span>DIRECTED BY ANNELISE ZHANG</span>
+      
+    </footer>
+    <span class="contact__page">06 / 06</span>
+  </main>
+  <script type="module" src="./src/scripts/contact.ts?v=20261111-contact-source-port"></script>
+  <script type="module" src="./src/scripts/integrated-bridge.ts"></script>
+</body>
+</html>

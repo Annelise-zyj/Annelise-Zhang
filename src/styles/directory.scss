@@ -1,0 +1,45 @@
+.directory { position: relative; width: 100%; height: 100vh; height: 100svh; min-height: 620px; overflow: hidden; isolation: isolate; background: radial-gradient(ellipse 75% 68% at 8% 4%, rgba(96, 84, 108, .48), transparent 72%), radial-gradient(ellipse 62% 66% at 94% 90%, rgba(82, 77, 101, .42), transparent 74%), linear-gradient(128deg, #29262f 0%, #111016 48%, #2c2731 100%); color: #f7f3ed; }
+.directory #webgl { mix-blend-mode: screen; }
+.directory #webgl canvas { mix-blend-mode: normal; }
+.directory__header, .directory__footer { position: absolute; z-index: 5; left: 3.6vw; right: 3.6vw; display: flex; justify-content: space-between; gap: 24px; font: 500 11px/1.4 Arial, Helvetica, sans-serif; letter-spacing: .2em; }
+.directory__header { top: 32px; }.directory__footer { bottom: 30px; color: #bdb3c3; }
+.directory__heading { position: absolute; z-index: 4; top: 15%; left: 7%; pointer-events: none; }
+.directory__heading p { margin: 0 0 15px; color: #c3a1dc; font: 500 11px/1.4 Arial, Helvetica, sans-serif; letter-spacing: .23em; }
+.directory__heading h1 { margin: 0; font: 400 clamp(68px, 7.5vw, 122px)/1 'Iowan Old Style', 'Songti SC', 'STSong', Georgia, serif; letter-spacing: .035em; }
+.directory__heading span { display: block; margin-top: 16px; font-size: 13px; letter-spacing: .13em; color: #c5beca; }
+.directory__orbs { position: absolute; z-index: 3; inset: 0; }
+.directory__orb { position: absolute; border: 0; border-radius: 50%; background: transparent; color: #f7f3ed; display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center; padding: 16px; cursor: pointer; font-family: inherit; isolation: isolate; transition: transform .4s cubic-bezier(.2,.8,.2,1), filter .4s; text-shadow: 0 2px 15px #050407; }
+.directory__orb::before { content: ''; position: absolute; inset: 0; border-radius: inherit; border: 1px solid rgba(207,154,255,.38); box-shadow: inset 7px 7px 23px rgba(185,115,255,.16), 0 0 30px rgba(163,90,251,.14); pointer-events: none; }
+.directory__orb::after { content: ''; position: absolute; inset: 14%; border-radius: 50%; background: radial-gradient(circle, rgba(3,2,8,.76) 0%, rgba(3,2,8,.52) 49%, transparent 77%); pointer-events: none; }
+.directory__orb > * { position: relative; z-index: 1; }
+button.directory__orb:hover, button.directory__orb:focus-visible, button.directory__orb.is-selected { transform: scale(1.075); filter: drop-shadow(0 0 24px rgba(185,113,255,.45)); outline: none; }
+button.directory__orb:focus-visible::before { border: 2px solid #f7f3ed; }
+.directory__orb small { font: 500 9px/1.3 Arial, Helvetica, sans-serif; letter-spacing: .17em; color: #e3c8ff; }
+.directory__orb strong { display: block; margin: 9px 0 6px; font: 400 clamp(18px, 2.15vw, 32px)/1.12 'Iowan Old Style', 'Songti SC', 'STSong', Georgia, serif; letter-spacing: .095em; white-space: nowrap; }
+.directory__orb em { font: normal 10px/1.3 Arial, Helvetica, sans-serif; letter-spacing: .1em; color: #e6dbea; }
+.directory__orb--works em { font-size: 11px; line-height: 1.4; letter-spacing: .035em; }
+.directory__skills { max-width: 115px; display: flex; justify-content: center; flex-wrap: wrap; gap: 5px; }
+.directory__skills span { font-size: 9px; line-height: 1.1; border: 1px solid #d9bee7a8; border-radius: 20px; padding: 4px 6px; }
+.directory__orb--about { width: clamp(154px, 17vw, 245px); aspect-ratio: 1; left: 23%; top: 23%; }
+.directory__orb--works { width: clamp(212px, 24vw, 320px); aspect-ratio: 1; left: 46%; top: 15%; }
+.directory__orb--photos { width: clamp(157px, 17vw, 235px); aspect-ratio: 1; left: 70%; top: 43%; }
+.directory__orb--intern { width: clamp(135px, 13vw, 185px); aspect-ratio: 1; left: 35%; top: 58%; }
+.directory__orb--honors { width: clamp(135px, 13vw, 185px); aspect-ratio: 1; left: 55%; top: 64%; }
+.directory__orb--contact { width: clamp(132px, 12vw, 168px); aspect-ratio: 1; left: 81%; top: 13%; }
+.directory__orb--skills { width: clamp(142px, 14vw, 190px); aspect-ratio: 1; left: 12%; top: 58%; cursor: default; }
+@media (max-width: 800px) { .directory { min-height: 700px; } .directory__header,.directory__footer { left: 22px; right: 22px; font-size: 9px; letter-spacing: .12em; } .directory__header { top: 22px; } .directory__footer { bottom: 22px; } .directory__heading { top: 12%; left: 6%; } .directory__heading h1 { font-size: 64px; } .directory__heading span { font-size: 11px; margin-top: 8px; } .directory__orbs { inset: 25% 5% 11%; display: grid; grid-template-columns: repeat(2, minmax(0,1fr)); grid-template-rows: repeat(4, minmax(0,1fr)); gap: 6px 12px; justify-items: center; align-items: center; } .directory__orb { position: relative; left: auto; top: auto; width: min(29vw, 130px); min-width: 110px; padding: 10px; } .directory__orb--works { width: min(40vw, 170px); } .directory__orb strong { font-size: 17px; margin: 5px 0 3px; } .directory__orb small,.directory__orb em { font-size: 7px; } .directory__skills { max-width: 95px; gap: 3px; } .directory__skills span { font-size: 7px; padding: 3px 4px; } .directory__orb--about { grid-column: 1; grid-row: 1; } .directory__orb--works { grid-column: 2; grid-row: 1; } .directory__orb--photos { grid-column: 1; grid-row: 2; } .directory__orb--intern { grid-column: 2; grid-row: 2; } .directory__orb--honors { grid-column: 1; grid-row: 3; } .directory__orb--contact { grid-column: 2; grid-row: 3; } .directory__orb--skills { grid-column: 1 / 3; grid-row: 4; } .directory__selected { left: auto; right: 6%; bottom: 13%; text-align: right; } .directory__selected b { font-size: 21px; } }
+@media (max-width: 800px) { .directory__orb--works em { font-size: 9px; line-height: 1.35; } }
+@media (max-width: 520px) {
+  .directory__orbs { inset: 0; display: block; }
+  .directory__orb { position: absolute; width: min(29vw, 122px); min-width: 106px; }
+  .directory__orb--works { width: min(29vw, 122px); min-width: 106px; }
+  .directory__orb--works em { font-size: 7px; line-height: 1.25; }
+  .directory__orb--about { left: 9%; top: 28%; }
+  .directory__orb--works { left: 60%; top: 25%; }
+  .directory__orb--photos { left: 6%; top: 43%; }
+  .directory__orb--intern { left: 58%; top: 44%; }
+  .directory__orb--honors { left: 12%; top: 59%; }
+  .directory__orb--contact { left: 61%; top: 61%; }
+  .directory__orb--skills { left: 35%; top: 76%; }
+}
+@media (prefers-reduced-motion: reduce) { .directory__orb { transition: none; } }
